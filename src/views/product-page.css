@@ -1,0 +1,898 @@
+.product-page-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.product-page-product-page {
+  gap: 1px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: rgba(255, 255, 255, 1);
+}
+.product-page-header-signed {
+  gap: 12px;
+  width: 1440px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.product-page-header-logo {
+  gap: 10px;
+  width: 150px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.product-page-imag-ebabe0ecf3ccc410faf1c05a53b7ee68a1 {
+  width: 150px;
+  height: 150px;
+}
+.product-page-header-name {
+  gap: 10px;
+  width: 491px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.product-page-text {
+  color: rgba(0, 0, 0, 1);
+  width: 491px;
+  height: auto;
+  font-size: 51px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-page-header-links {
+  width: 607px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.product-page-about-us {
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.product-page-clickable-frame {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.product-page-text02 {
+  color: rgba(0, 0, 0, 1);
+  width: 115px;
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-page-eparrowdownbold {
+  width: 27px;
+  height: 25px;
+}
+.product-page-rules {
+  gap: 10px;
+  height: 150px;
+  display: flex;
+  padding: 55px 0;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.product-page-text04 {
+  color: rgba(0, 0, 0, 1);
+  width: 115px;
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-page-news {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.product-page-clickable-frame1 {
+  display: flex;
+  align-items: center;
+}
+.product-page-text06 {
+  color: rgba(0, 0, 0, 1);
+  width: 115px;
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-page-eparrowdownbold1 {
+  width: 27px;
+  height: 25px;
+}
+.product-page-wishlist {
+  width: 128px;
+  height: 150px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.product-page-text08 {
+  top: 56px;
+  left: 6px;
+  color: rgba(0, 0, 0, 1);
+  width: 115px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-page-burger-menubutton {
+  gap: 10px;
+  height: 150px;
+  display: flex;
+  padding: 47px 43px;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.product-page-iconamoonmenuburgerhorizontalbold {
+  width: 72px;
+  height: 56px;
+}
+.product-page-product {
+  width: 1440px;
+  height: 719px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.product-page-product-image {
+  gap: 10px;
+  display: flex;
+  padding: 96px 43px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.product-page-rectangle7 {
+  width: auto;
+  height: auto;
+  flex-grow: 1;
+  align-self: stretch;
+}
+.product-page-product-description {
+  gap: 10px;
+  display: flex;
+  padding: 20px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.product-page-desription-title {
+  gap: 10px;
+  height: 237px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.product-page-name {
+  gap: 10px;
+  height: 72px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.product-page-text10 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 44px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-page-company {
+  gap: 10px;
+  display: flex;
+  align-items: center;
+}
+.product-page-text12 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-page-city {
+  gap: 10px;
+  display: flex;
+  padding: 20px 0;
+  overflow: hidden;
+  align-items: center;
+}
+.product-page-text14 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-page-description {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.product-page-text16 {
+  color: rgba(0, 0, 0, 1);
+  width: 341px;
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 140.625%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-page-calltoaction {
+  gap: 10px;
+  width: 390px;
+  height: 177px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.product-page-addtocart {
+  gap: 10px;
+  display: flex;
+  padding: 46px 0;
+  overflow: hidden;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.product-page-textbutton {
+  gap: 10px;
+  display: flex;
+  padding: 14px 36px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-default-buttongreen);
+}
+.product-page-text18 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-page-addto-wishlist {
+  gap: 10px;
+  display: flex;
+  padding: 33px 0;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.product-page-textbutton1 {
+  gap: 10px;
+  display: flex;
+  padding: 14px 36px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-default-buttongreen);
+}
+.product-page-text20 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-page-footer {
+  width: 1440px;
+  height: 427px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 26, 64, 1);
+}
+.product-page-divctsectioninnerwrap {
+  gap: 40px;
+  top: 68px;
+  left: 160px;
+  width: 1120px;
+  display: flex;
+  padding: 0 22px;
+  position: absolute;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.product-page-readytobeamember {
+  gap: 12px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.product-page-text22 {
+  color: rgba(255, 255, 255, 1);
+  width: 327px;
+  height: auto;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-page-text24 {
+  color: rgba(255, 255, 255, 0.699999988079071);
+  width: 391px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-page-details-frame {
+  gap: 58px;
+  display: flex;
+  align-items: flex-start;
+}
+.product-page-membership {
+  gap: 13px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.product-page-text34 {
+  color: rgba(255, 255, 255, 1);
+  width: 96px;
+  height: auto;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 500;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-page-text36 {
+  color: rgba(253, 185, 19, 1);
+  width: 142px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-page-text38 {
+  color: rgba(253, 185, 19, 1);
+  width: 98px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-page-text40 {
+  color: rgba(253, 185, 19, 1);
+  width: 105px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-page-text42 {
+  color: rgba(253, 185, 19, 1);
+  width: 97px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-page-text44 {
+  color: rgba(253, 185, 19, 1);
+  width: 129px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-page-proudly-south-african {
+  gap: 13px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.product-page-text46 {
+  color: rgba(255, 255, 255, 1);
+  width: 174px;
+  height: auto;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 500;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-page-text48 {
+  color: rgba(253, 185, 19, 1);
+  width: 57px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-page-text50 {
+  color: rgba(253, 185, 19, 1);
+  width: 69px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-page-text52 {
+  color: rgba(253, 185, 19, 1);
+  width: 114px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-page-text54 {
+  color: rgba(253, 185, 19, 1);
+  width: 35px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-page-text56 {
+  color: rgba(253, 185, 19, 1);
+  width: 134px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-page-reports {
+  gap: 13px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.product-page-text58 {
+  color: rgba(255, 255, 255, 1);
+  width: 62px;
+  height: auto;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 500;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-page-text60 {
+  color: rgba(253, 185, 19, 1);
+  width: 113px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-page-text62 {
+  color: rgba(253, 185, 19, 1);
+  width: 97px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-page-text64 {
+  color: rgba(253, 185, 19, 1);
+  width: 162px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-page-text66 {
+  color: rgba(253, 185, 19, 1);
+  width: 100px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-page-link {
+  gap: 10px;
+  display: flex;
+  padding: 12px 49px;
+  align-items: center;
+  border-color: rgba(253, 185, 19, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 100px;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0);
+}
+.product-page-text68 {
+  color: rgba(253, 185, 19, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 16.799999237060547px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-page-divnewcolumns6312408 {
+  gap: 75px;
+  display: flex;
+  padding: 20px;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px 0 0;
+}
+.product-page-svg {
+  width: 24px;
+  height: 23px;
+}
+.product-page-text70 {
+  color: rgba(255, 255, 255, 1);
+  width: 115px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-page-svg1 {
+  width: 23px;
+  height: 18px;
+}
+.product-page-link1 {
+  gap: 10px;
+  display: flex;
+  align-items: center;
+}
+.product-page-text72 {
+  color: rgba(255, 255, 255, 1);
+  width: 154px;
+  height: auto;
+  font-size: 15.875px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 25.600000381469727px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.product-page-link2 {
+  gap: 10px;
+  display: flex;
+  padding: 6px;
+  align-items: center;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.699999988079071);
+}
+.product-page-svg2 {
+  width: 12px;
+  height: 12px;
+}
+.product-page-link3 {
+  gap: 10px;
+  display: flex;
+  padding: 6px;
+  align-items: center;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.699999988079071);
+}
+.product-page-svg3 {
+  width: 12px;
+  height: 12px;
+}
+.product-page-link4 {
+  gap: 10px;
+  display: flex;
+  padding: 6px;
+  align-items: center;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.699999988079071);
+}
+.product-page-svg4 {
+  width: 12px;
+  height: 12px;
+}
+.product-page-link5 {
+  gap: 10px;
+  display: flex;
+  padding: 6px;
+  align-items: center;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.699999988079071);
+}
+.product-page-svg5 {
+  width: 12px;
+  height: 12px;
+}
+.product-page-link6 {
+  gap: 10px;
+  display: flex;
+  padding: 6px;
+  align-items: center;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.699999988079071);
+}
+.product-page-svg6 {
+  width: 12px;
+  height: 12px;
+}
+.product-page-divnewcolumns7312408 {
+  gap: 24px;
+  display: flex;
+  padding: 20px;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px 0 0;
+}
+.product-page-link7 {
+  display: flex;
+  opacity: 0.70;
+  padding: 0 40px;
+  align-items: center;
+  flex-direction: column;
+}
+.product-page-proudly-sa-whitepng {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+  background-size: cover;
+  background-image: url("/external/tq_o3hefbkuwi-4xbe-500h.png");
+}
+.product-page-text74 {
+  color: rgba(86, 109, 143, 1);
+  width: 410px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 22.399999618530273px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.product-page-menus {
+  gap: 24px;
+  display: flex;
+  align-items: center;
+}
+.product-page-text76 {
+  color: rgba(127, 139, 147, 1);
+  width: 360px;
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.200000762939453px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.product-page-text78 {
+  color: rgba(127, 139, 147, 1);
+  width: 34px;
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.200000762939453px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.product-page-text80 {
+  color: rgba(127, 139, 147, 1);
+  width: 75px;
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.200000762939453px;
+  font-stretch: normal;
+  text-decoration: underline;
+}

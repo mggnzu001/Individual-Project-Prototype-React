@@ -1,0 +1,938 @@
+.plan-your-trip-choose-destination-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.plan-your-trip-choose-destination-plan-your-trip-choose-destination {
+  gap: 3px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.plan-your-trip-choose-destination-header-signed {
+  gap: 12px;
+  width: 1440px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.plan-your-trip-choose-destination-header-logo {
+  gap: 10px;
+  width: 150px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.plan-your-trip-choose-destination-imag-ebabe0ecf3ccc410faf1c05a53b7ee68a1 {
+  width: 150px;
+  height: 150px;
+}
+.plan-your-trip-choose-destination-header-name {
+  gap: 10px;
+  width: 491px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.plan-your-trip-choose-destination-text {
+  color: rgba(0, 0, 0, 1);
+  width: 491px;
+  height: auto;
+  font-size: 51px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.plan-your-trip-choose-destination-header-links {
+  width: 607px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.plan-your-trip-choose-destination-about-us {
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.plan-your-trip-choose-destination-clickable-frame {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.plan-your-trip-choose-destination-text02 {
+  color: rgba(0, 0, 0, 1);
+  width: 115px;
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.plan-your-trip-choose-destination-eparrowdownbold {
+  width: 27px;
+  height: 25px;
+}
+.plan-your-trip-choose-destination-rules {
+  gap: 10px;
+  height: 150px;
+  display: flex;
+  padding: 55px 0;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.plan-your-trip-choose-destination-text04 {
+  color: rgba(0, 0, 0, 1);
+  width: 115px;
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.plan-your-trip-choose-destination-news {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.plan-your-trip-choose-destination-clickable-frame1 {
+  display: flex;
+  align-items: center;
+}
+.plan-your-trip-choose-destination-text06 {
+  color: rgba(0, 0, 0, 1);
+  width: 115px;
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.plan-your-trip-choose-destination-eparrowdownbold1 {
+  width: 27px;
+  height: 25px;
+}
+.plan-your-trip-choose-destination-wishlist {
+  width: 128px;
+  height: 150px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.plan-your-trip-choose-destination-text08 {
+  top: 56px;
+  left: 6px;
+  color: rgba(0, 0, 0, 1);
+  width: 115px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.plan-your-trip-choose-destination-burger-menubutton {
+  gap: 10px;
+  height: 150px;
+  display: flex;
+  padding: 47px 43px;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.plan-your-trip-choose-destination-iconamoonmenuburgerhorizontalbold {
+  width: 72px;
+  height: 56px;
+}
+.plan-your-trip-choose-destination-begin-planning-from {
+  width: 1440px;
+  height: 709px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.plan-your-trip-choose-destination-form-frame {
+  gap: 10px;
+  height: 709px;
+  display: flex;
+  padding: 205px 34px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.plan-your-trip-choose-destination-frame4 {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  justify-content: center;
+}
+.plan-your-trip-choose-destination-text10 {
+  color: rgba(0, 0, 0, 1);
+  width: 478px;
+  height: auto;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.plan-your-trip-choose-destination-plan-form {
+  gap: 16px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.plan-your-trip-choose-destination-from {
+  gap: 7px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.plan-your-trip-choose-destination-text12 {
+  color: rgba(0, 0, 0, 1);
+  width: 111px;
+  height: auto;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 140.625%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.plan-your-trip-choose-destination-from-input {
+  width: 360px;
+  height: 64px;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+}
+.plan-your-trip-choose-destination-to {
+  gap: 10px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.plan-your-trip-choose-destination-to-destinationinput {
+  width: 478px;
+  height: 64px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.plan-your-trip-choose-destination-to-input {
+  top: 0px;
+  left: 118px;
+  width: 360px;
+  height: 64px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+}
+.plan-your-trip-choose-destination-text14 {
+  color: rgba(0, 0, 0, 1);
+  width: 111px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 140.625%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.plan-your-trip-choose-destination-add-stop {
+  gap: 10px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.plan-your-trip-choose-destination-add-stopinput {
+  width: 478px;
+  height: 64px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.plan-your-trip-choose-destination-add-stop-input {
+  top: 0px;
+  left: 118px;
+  width: 360px;
+  height: 64px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+}
+.plan-your-trip-choose-destination-text16 {
+  color: rgba(0, 0, 0, 1);
+  width: 111px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 140.625%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.plan-your-trip-choose-destination-stop {
+  gap: 10px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.plan-your-trip-choose-destination-stopinputs {
+  width: 284px;
+  height: 64px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.plan-your-trip-choose-destination-stops-input {
+  top: 0px;
+  left: 118px;
+  width: 166px;
+  height: 64px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+}
+.plan-your-trip-choose-destination-text18 {
+  color: rgba(0, 0, 0, 1);
+  width: 111px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 140.625%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.plan-your-trip-choose-destination-textbutton {
+  gap: 10px;
+  display: flex;
+  padding: 14px 36px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-default-buttongreen);
+}
+.plan-your-trip-choose-destination-text20 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.plan-your-trip-choose-destination-map-frame {
+  gap: 10px;
+  display: flex;
+  padding: 41px 50px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.plan-your-trip-choose-destination-map-container {
+  width: 790px;
+  height: 625px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+}
+.plan-your-trip-choose-destination-footer {
+  width: 1440px;
+  height: 427px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 26, 64, 1);
+}
+.plan-your-trip-choose-destination-divctsectioninnerwrap {
+  gap: 40px;
+  top: 68px;
+  left: 160px;
+  width: 1120px;
+  display: flex;
+  padding: 0 22px;
+  position: absolute;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.plan-your-trip-choose-destination-readytobeamember {
+  gap: 12px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.plan-your-trip-choose-destination-text22 {
+  color: rgba(255, 255, 255, 1);
+  width: 327px;
+  height: auto;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.plan-your-trip-choose-destination-text24 {
+  color: rgba(255, 255, 255, 0.699999988079071);
+  width: 391px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.plan-your-trip-choose-destination-details-frame {
+  gap: 58px;
+  display: flex;
+  align-items: flex-start;
+}
+.plan-your-trip-choose-destination-membership {
+  gap: 13px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.plan-your-trip-choose-destination-text34 {
+  color: rgba(255, 255, 255, 1);
+  width: 96px;
+  height: auto;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 500;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.plan-your-trip-choose-destination-text36 {
+  color: rgba(253, 185, 19, 1);
+  width: 142px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.plan-your-trip-choose-destination-text38 {
+  color: rgba(253, 185, 19, 1);
+  width: 98px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.plan-your-trip-choose-destination-text40 {
+  color: rgba(253, 185, 19, 1);
+  width: 105px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.plan-your-trip-choose-destination-text42 {
+  color: rgba(253, 185, 19, 1);
+  width: 97px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.plan-your-trip-choose-destination-text44 {
+  color: rgba(253, 185, 19, 1);
+  width: 129px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.plan-your-trip-choose-destination-proudly-south-african {
+  gap: 13px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.plan-your-trip-choose-destination-text46 {
+  color: rgba(255, 255, 255, 1);
+  width: 174px;
+  height: auto;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 500;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.plan-your-trip-choose-destination-text48 {
+  color: rgba(253, 185, 19, 1);
+  width: 57px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.plan-your-trip-choose-destination-text50 {
+  color: rgba(253, 185, 19, 1);
+  width: 69px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.plan-your-trip-choose-destination-text52 {
+  color: rgba(253, 185, 19, 1);
+  width: 114px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.plan-your-trip-choose-destination-text54 {
+  color: rgba(253, 185, 19, 1);
+  width: 35px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.plan-your-trip-choose-destination-text56 {
+  color: rgba(253, 185, 19, 1);
+  width: 134px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.plan-your-trip-choose-destination-reports {
+  gap: 13px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.plan-your-trip-choose-destination-text58 {
+  color: rgba(255, 255, 255, 1);
+  width: 62px;
+  height: auto;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 500;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.plan-your-trip-choose-destination-text60 {
+  color: rgba(253, 185, 19, 1);
+  width: 113px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.plan-your-trip-choose-destination-text62 {
+  color: rgba(253, 185, 19, 1);
+  width: 97px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.plan-your-trip-choose-destination-text64 {
+  color: rgba(253, 185, 19, 1);
+  width: 162px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.plan-your-trip-choose-destination-text66 {
+  color: rgba(253, 185, 19, 1);
+  width: 100px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.plan-your-trip-choose-destination-link {
+  gap: 10px;
+  display: flex;
+  padding: 12px 49px;
+  align-items: center;
+  border-color: rgba(253, 185, 19, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 100px;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0);
+}
+.plan-your-trip-choose-destination-text68 {
+  color: rgba(253, 185, 19, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 16.799999237060547px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.plan-your-trip-choose-destination-divnewcolumns6312408 {
+  gap: 75px;
+  display: flex;
+  padding: 20px;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px 0 0;
+}
+.plan-your-trip-choose-destination-svg {
+  width: 24px;
+  height: 23px;
+}
+.plan-your-trip-choose-destination-text70 {
+  color: rgba(255, 255, 255, 1);
+  width: 115px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.plan-your-trip-choose-destination-svg1 {
+  width: 23px;
+  height: 18px;
+}
+.plan-your-trip-choose-destination-link1 {
+  gap: 10px;
+  display: flex;
+  align-items: center;
+}
+.plan-your-trip-choose-destination-text72 {
+  color: rgba(255, 255, 255, 1);
+  width: 154px;
+  height: auto;
+  font-size: 15.875px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 25.600000381469727px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.plan-your-trip-choose-destination-link2 {
+  gap: 10px;
+  display: flex;
+  padding: 6px;
+  align-items: center;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.699999988079071);
+}
+.plan-your-trip-choose-destination-svg2 {
+  width: 12px;
+  height: 12px;
+}
+.plan-your-trip-choose-destination-link3 {
+  gap: 10px;
+  display: flex;
+  padding: 6px;
+  align-items: center;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.699999988079071);
+}
+.plan-your-trip-choose-destination-svg3 {
+  width: 12px;
+  height: 12px;
+}
+.plan-your-trip-choose-destination-link4 {
+  gap: 10px;
+  display: flex;
+  padding: 6px;
+  align-items: center;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.699999988079071);
+}
+.plan-your-trip-choose-destination-svg4 {
+  width: 12px;
+  height: 12px;
+}
+.plan-your-trip-choose-destination-link5 {
+  gap: 10px;
+  display: flex;
+  padding: 6px;
+  align-items: center;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.699999988079071);
+}
+.plan-your-trip-choose-destination-svg5 {
+  width: 12px;
+  height: 12px;
+}
+.plan-your-trip-choose-destination-link6 {
+  gap: 10px;
+  display: flex;
+  padding: 6px;
+  align-items: center;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.699999988079071);
+}
+.plan-your-trip-choose-destination-svg6 {
+  width: 12px;
+  height: 12px;
+}
+.plan-your-trip-choose-destination-divnewcolumns7312408 {
+  gap: 24px;
+  display: flex;
+  padding: 20px;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px 0 0;
+}
+.plan-your-trip-choose-destination-link7 {
+  display: flex;
+  opacity: 0.70;
+  padding: 0 40px;
+  align-items: center;
+  flex-direction: column;
+}
+.plan-your-trip-choose-destination-proudly-sa-whitepng {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+  background-size: cover;
+  background-image: url("/external/tq_hv8lzv1ay4-q18d-500h.png");
+}
+.plan-your-trip-choose-destination-text74 {
+  color: rgba(86, 109, 143, 1);
+  width: 410px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 22.399999618530273px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.plan-your-trip-choose-destination-menus {
+  gap: 24px;
+  display: flex;
+  align-items: center;
+}
+.plan-your-trip-choose-destination-text76 {
+  color: rgba(127, 139, 147, 1);
+  width: 360px;
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.200000762939453px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.plan-your-trip-choose-destination-text78 {
+  color: rgba(127, 139, 147, 1);
+  width: 34px;
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.200000762939453px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.plan-your-trip-choose-destination-text80 {
+  color: rgba(127, 139, 147, 1);
+  width: 75px;
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.200000762939453px;
+  font-stretch: normal;
+  text-decoration: underline;
+}

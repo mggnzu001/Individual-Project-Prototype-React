@@ -1,0 +1,1971 @@
+.view-orders-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.view-orders-view-orders {
+  gap: 30px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.view-orders-header-signed {
+  gap: 12px;
+  width: 1451px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.view-orders-header-logo {
+  gap: 10px;
+  width: 150px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.view-orders-imag-ebabe0ecf3ccc410faf1c05a53b7ee68a1 {
+  width: 150px;
+  height: 150px;
+}
+.view-orders-header-name {
+  gap: 10px;
+  width: 491px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.view-orders-text {
+  color: rgba(0, 0, 0, 1);
+  width: 491px;
+  height: auto;
+  font-size: 51px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-header-links {
+  width: 607px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.view-orders-about-us {
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.view-orders-clickable-frame {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.view-orders-text002 {
+  color: rgba(0, 0, 0, 1);
+  width: 115px;
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-eparrowdownbold {
+  width: 27px;
+  height: 25px;
+}
+.view-orders-rules {
+  gap: 10px;
+  height: 150px;
+  display: flex;
+  padding: 55px 0;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.view-orders-text004 {
+  color: rgba(0, 0, 0, 1);
+  width: 115px;
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-news {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.view-orders-clickable-frame1 {
+  display: flex;
+  align-items: center;
+}
+.view-orders-text006 {
+  color: rgba(0, 0, 0, 1);
+  width: 115px;
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-eparrowdownbold1 {
+  width: 27px;
+  height: 25px;
+}
+.view-orders-wishlist {
+  width: 128px;
+  height: 150px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.view-orders-text008 {
+  top: 56px;
+  left: 6px;
+  color: rgba(0, 0, 0, 1);
+  width: 115px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-burger-menubutton {
+  gap: 10px;
+  height: 150px;
+  display: flex;
+  padding: 47px 43px;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.view-orders-iconamoonmenuburgerhorizontalbold {
+  width: 72px;
+  height: 56px;
+}
+.view-orders-title {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.view-orders-text010 {
+  color: rgba(0, 0, 0, 1);
+  width: 1430px;
+  height: auto;
+  font-size: 54px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-itinerary-cards {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.view-orders-itinerary-item-card {
+  gap: 10px;
+  width: 1440px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.view-orders-title1 {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.view-orders-text012 {
+  color: rgba(0, 0, 0, 1);
+  width: 1440px;
+  height: auto;
+  font-size: 70px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-line4 {
+  top: 116px;
+  left: 72px;
+  width: 1295px;
+  height: 1px;
+  z-index: 1;
+  position: absolute;
+}
+.view-orders-suggested-visit2 {
+  gap: 10px;
+  display: flex;
+  padding: 20px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.view-orders-order-list {
+  gap: 10px;
+  height: 467px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.view-orders-suggestion2 {
+  gap: 10px;
+  width: 180px;
+  height: 180px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 10px;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: rgba(255, 255, 255, 1);
+}
+.view-orders-logo-frame {
+  gap: 10px;
+  width: 180px;
+  height: 110px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.view-orders-rectangle6 {
+  width: 100px;
+  height: 100px;
+}
+.view-orders-suggestion-desctiption {
+  display: flex;
+  overflow: hidden;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.view-orders-name-frame {
+  width: 180px;
+  height: 34px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.view-orders-text014 {
+  color: rgba(0, 0, 0, 1);
+  width: 180px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-text016 {
+  color: rgba(0, 0, 0, 1);
+  width: 180px;
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.view-orders-line5 {
+  width: 150px;
+  height: 1px;
+}
+.view-orders-add-item {
+  gap: 10px;
+  display: flex;
+  padding: 34px 33px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.view-orders-order-item {
+  gap: 10px;
+  display: flex;
+  padding: 20px;
+  position: relative;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.view-orders-itemimage {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.view-orders-rectangle5 {
+  width: 230px;
+  height: 169px;
+}
+.view-orders-item-details {
+  display: flex;
+  z-index: 1;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.view-orders-text018 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 28px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-text020 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 27px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-text022 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-tick {
+  gap: 10px;
+  display: flex;
+  z-index: 2;
+  position: relative;
+  align-items: center;
+}
+.view-orders-ellipse8 {
+  width: 80px;
+  height: 80px;
+}
+.view-orders-typcntickoutline {
+  top: 10px;
+  left: 10.5px;
+  width: 60px;
+  height: 60px;
+  z-index: 1;
+  position: absolute;
+}
+.view-orders-add-item1 {
+  gap: 10px;
+  display: flex;
+  padding: 34px 33px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+}
+.view-orders-add-location {
+  width: 45px;
+  height: 45px;
+}
+.view-orders-text024 {
+  color: rgba(0, 0, 0, 1);
+  width: 501px;
+  height: auto;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-stop-total {
+  gap: 10px;
+  display: flex;
+  padding: 19px 37px;
+  overflow: hidden;
+  align-items: flex-start;
+  justify-content: center;
+}
+.view-orders-text026 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-itinerary-item-card1 {
+  gap: 10px;
+  width: 1440px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.view-orders-title2 {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.view-orders-text028 {
+  color: rgba(0, 0, 0, 1);
+  width: 1440px;
+  height: auto;
+  font-size: 70px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-line41 {
+  top: 116px;
+  left: 72px;
+  width: 1295px;
+  height: 1px;
+  z-index: 1;
+  position: absolute;
+}
+.view-orders-order-list1 {
+  gap: 10px;
+  width: 1440px;
+  display: flex;
+  padding: 20px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+}
+.view-orders-suggestion21 {
+  gap: 10px;
+  width: 180px;
+  height: 180px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 10px;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: rgba(255, 255, 255, 1);
+}
+.view-orders-logo-frame1 {
+  gap: 10px;
+  width: 180px;
+  height: 110px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.view-orders-rectangle61 {
+  width: 100px;
+  height: 100px;
+}
+.view-orders-suggestion-desctiption1 {
+  display: flex;
+  overflow: hidden;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.view-orders-name-frame1 {
+  width: 180px;
+  height: 34px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.view-orders-text030 {
+  color: rgba(0, 0, 0, 1);
+  width: 180px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-text032 {
+  color: rgba(0, 0, 0, 1);
+  width: 180px;
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.view-orders-line51 {
+  width: 150px;
+  height: 1px;
+}
+.view-orders-add-item2 {
+  gap: 10px;
+  display: flex;
+  padding: 34px 33px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+}
+.view-orders-add-location1 {
+  width: 45px;
+  height: 45px;
+}
+.view-orders-text034 {
+  color: rgba(0, 0, 0, 1);
+  width: 501px;
+  height: auto;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-order-list2 {
+  gap: 10px;
+  width: 1440px;
+  display: flex;
+  padding: 20px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+}
+.view-orders-suggestion22 {
+  gap: 10px;
+  width: 180px;
+  height: 180px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 10px;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: rgba(255, 255, 255, 1);
+}
+.view-orders-logo-frame2 {
+  gap: 10px;
+  width: 180px;
+  height: 110px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.view-orders-rectangle62 {
+  width: 100px;
+  height: 100px;
+}
+.view-orders-suggestion-desctiption2 {
+  display: flex;
+  overflow: hidden;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.view-orders-name-frame2 {
+  width: 180px;
+  height: 34px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.view-orders-text036 {
+  color: rgba(0, 0, 0, 1);
+  width: 180px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-text038 {
+  color: rgba(0, 0, 0, 1);
+  width: 180px;
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.view-orders-line52 {
+  width: 150px;
+  height: 1px;
+}
+.view-orders-add-item3 {
+  gap: 10px;
+  display: flex;
+  padding: 34px 33px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+}
+.view-orders-add-location2 {
+  width: 45px;
+  height: 45px;
+}
+.view-orders-text040 {
+  color: rgba(0, 0, 0, 1);
+  width: 501px;
+  height: auto;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-itinerary-item-card2 {
+  gap: 10px;
+  width: 1440px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.view-orders-title3 {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.view-orders-text042 {
+  color: rgba(0, 0, 0, 1);
+  width: 1440px;
+  height: auto;
+  font-size: 70px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-line42 {
+  top: 116px;
+  left: 72px;
+  width: 1295px;
+  height: 1px;
+  z-index: 1;
+  position: absolute;
+}
+.view-orders-order-list3 {
+  gap: 10px;
+  width: 1440px;
+  display: flex;
+  padding: 20px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+}
+.view-orders-suggestion23 {
+  gap: 10px;
+  width: 180px;
+  height: 180px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 10px;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: rgba(255, 255, 255, 1);
+}
+.view-orders-logo-frame3 {
+  gap: 10px;
+  width: 180px;
+  height: 110px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.view-orders-rectangle63 {
+  width: 100px;
+  height: 100px;
+}
+.view-orders-suggestion-desctiption3 {
+  display: flex;
+  overflow: hidden;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.view-orders-name-frame3 {
+  width: 180px;
+  height: 34px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.view-orders-text044 {
+  color: rgba(0, 0, 0, 1);
+  width: 180px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-text046 {
+  color: rgba(0, 0, 0, 1);
+  width: 180px;
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.view-orders-line53 {
+  width: 150px;
+  height: 1px;
+}
+.view-orders-add-item4 {
+  gap: 10px;
+  display: flex;
+  padding: 34px 33px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+}
+.view-orders-add-location3 {
+  width: 45px;
+  height: 45px;
+}
+.view-orders-text048 {
+  color: rgba(0, 0, 0, 1);
+  width: 501px;
+  height: auto;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-itinerary-item-card3 {
+  gap: 10px;
+  width: 1440px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.view-orders-title4 {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.view-orders-text050 {
+  color: rgba(0, 0, 0, 1);
+  width: 1440px;
+  height: auto;
+  font-size: 70px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-line43 {
+  top: 116px;
+  left: 72px;
+  width: 1295px;
+  height: 1px;
+  z-index: 1;
+  position: absolute;
+}
+.view-orders-suggested-visit4 {
+  gap: 10px;
+  height: 541px;
+  display: flex;
+  padding: 20px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.view-orders-order-list4 {
+  gap: 10px;
+  height: 467px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.view-orders-suggestion24 {
+  gap: 10px;
+  width: 180px;
+  height: 180px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 10px;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: rgba(255, 255, 255, 1);
+}
+.view-orders-logo-frame4 {
+  gap: 10px;
+  width: 180px;
+  height: 110px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.view-orders-rectangle64 {
+  width: 100px;
+  height: 100px;
+}
+.view-orders-suggestion-desctiption4 {
+  display: flex;
+  overflow: hidden;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.view-orders-name-frame4 {
+  width: 180px;
+  height: 34px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.view-orders-text052 {
+  color: rgba(0, 0, 0, 1);
+  width: 180px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-text054 {
+  color: rgba(0, 0, 0, 1);
+  width: 180px;
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.view-orders-line54 {
+  width: 150px;
+  height: 1px;
+}
+.view-orders-add-item5 {
+  gap: 20px;
+  display: flex;
+  padding: 34px 33px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.view-orders-order-item1 {
+  gap: 10px;
+  display: flex;
+  padding: 20px;
+  position: relative;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.view-orders-itemimage1 {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.view-orders-rectangle51 {
+  width: 230px;
+  height: 169px;
+}
+.view-orders-item-details1 {
+  display: flex;
+  z-index: 1;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.view-orders-text056 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 28px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-text058 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 27px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-text060 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-tick1 {
+  gap: 10px;
+  display: flex;
+  z-index: 2;
+  position: relative;
+  align-items: center;
+}
+.view-orders-ellipse81 {
+  width: 80px;
+  height: 80px;
+}
+.view-orders-typcntickoutline1 {
+  top: 10px;
+  left: 10.5px;
+  width: 60px;
+  height: 60px;
+  z-index: 1;
+  position: absolute;
+}
+.view-orders-order-item2 {
+  gap: 10px;
+  height: 333px;
+  display: flex;
+  padding: 20px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.view-orders-itemimage2 {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.view-orders-rectangle52 {
+  width: 230px;
+  height: 169px;
+}
+.view-orders-item-details2 {
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.view-orders-text062 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 28px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-text064 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 27px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-text066 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-add-item6 {
+  gap: 10px;
+  display: flex;
+  padding: 34px 33px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+}
+.view-orders-add-location4 {
+  width: 45px;
+  height: 45px;
+}
+.view-orders-text068 {
+  color: rgba(0, 0, 0, 1);
+  width: 501px;
+  height: auto;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-stop-total1 {
+  gap: 10px;
+  display: flex;
+  padding: 19px 37px;
+  overflow: hidden;
+  align-items: flex-start;
+  justify-content: center;
+}
+.view-orders-text070 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-order-list5 {
+  gap: 10px;
+  width: 1440px;
+  display: flex;
+  padding: 20px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+}
+.view-orders-suggestion25 {
+  gap: 10px;
+  width: 180px;
+  height: 180px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 10px;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: rgba(255, 255, 255, 1);
+}
+.view-orders-logo-frame5 {
+  gap: 10px;
+  width: 180px;
+  height: 110px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.view-orders-rectangle65 {
+  width: 100px;
+  height: 100px;
+}
+.view-orders-suggestion-desctiption5 {
+  display: flex;
+  overflow: hidden;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.view-orders-name-frame5 {
+  width: 180px;
+  height: 34px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.view-orders-text072 {
+  color: rgba(0, 0, 0, 1);
+  width: 180px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-text074 {
+  color: rgba(0, 0, 0, 1);
+  width: 180px;
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.view-orders-line55 {
+  width: 150px;
+  height: 1px;
+}
+.view-orders-add-item7 {
+  gap: 10px;
+  display: flex;
+  padding: 34px 33px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+}
+.view-orders-add-location5 {
+  width: 45px;
+  height: 45px;
+}
+.view-orders-text076 {
+  color: rgba(0, 0, 0, 1);
+  width: 501px;
+  height: auto;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-order-list6 {
+  gap: 10px;
+  width: 1440px;
+  display: flex;
+  padding: 20px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+}
+.view-orders-suggestion26 {
+  gap: 10px;
+  width: 180px;
+  height: 180px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 10px;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: rgba(255, 255, 255, 1);
+}
+.view-orders-logo-frame6 {
+  gap: 10px;
+  width: 180px;
+  height: 110px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.view-orders-rectangle66 {
+  width: 100px;
+  height: 100px;
+}
+.view-orders-suggestion-desctiption6 {
+  display: flex;
+  overflow: hidden;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.view-orders-name-frame6 {
+  width: 180px;
+  height: 34px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.view-orders-text078 {
+  color: rgba(0, 0, 0, 1);
+  width: 180px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-text080 {
+  color: rgba(0, 0, 0, 1);
+  width: 180px;
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.view-orders-line56 {
+  width: 150px;
+  height: 1px;
+}
+.view-orders-add-item8 {
+  gap: 10px;
+  display: flex;
+  padding: 34px 33px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+}
+.view-orders-add-location6 {
+  width: 45px;
+  height: 45px;
+}
+.view-orders-text082 {
+  color: rgba(0, 0, 0, 1);
+  width: 501px;
+  height: auto;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-footer {
+  width: 1451px;
+  height: 427px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 26, 64, 1);
+}
+.view-orders-divctsectioninnerwrap {
+  gap: 40px;
+  top: 68px;
+  left: 166px;
+  width: 1120px;
+  display: flex;
+  padding: 0 22px;
+  position: absolute;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.view-orders-readytobeamember {
+  gap: 12px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.view-orders-text084 {
+  color: rgba(255, 255, 255, 1);
+  width: 327px;
+  height: auto;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-text086 {
+  color: rgba(255, 255, 255, 0.699999988079071);
+  width: 391px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-details-frame {
+  gap: 58px;
+  display: flex;
+  align-items: flex-start;
+}
+.view-orders-membership {
+  gap: 13px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.view-orders-text096 {
+  color: rgba(255, 255, 255, 1);
+  width: 96px;
+  height: auto;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 500;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-text098 {
+  color: rgba(253, 185, 19, 1);
+  width: 142px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-text100 {
+  color: rgba(253, 185, 19, 1);
+  width: 98px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-text102 {
+  color: rgba(253, 185, 19, 1);
+  width: 105px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-text104 {
+  color: rgba(253, 185, 19, 1);
+  width: 97px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-text106 {
+  color: rgba(253, 185, 19, 1);
+  width: 129px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-proudly-south-african {
+  gap: 13px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.view-orders-text108 {
+  color: rgba(255, 255, 255, 1);
+  width: 174px;
+  height: auto;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 500;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-text110 {
+  color: rgba(253, 185, 19, 1);
+  width: 57px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-text112 {
+  color: rgba(253, 185, 19, 1);
+  width: 69px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-text114 {
+  color: rgba(253, 185, 19, 1);
+  width: 114px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-text116 {
+  color: rgba(253, 185, 19, 1);
+  width: 35px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-text118 {
+  color: rgba(253, 185, 19, 1);
+  width: 134px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-reports {
+  gap: 13px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.view-orders-text120 {
+  color: rgba(255, 255, 255, 1);
+  width: 62px;
+  height: auto;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 500;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-text122 {
+  color: rgba(253, 185, 19, 1);
+  width: 113px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-text124 {
+  color: rgba(253, 185, 19, 1);
+  width: 97px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-text126 {
+  color: rgba(253, 185, 19, 1);
+  width: 162px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-text128 {
+  color: rgba(253, 185, 19, 1);
+  width: 100px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-link {
+  gap: 10px;
+  display: flex;
+  padding: 12px 49px;
+  align-items: center;
+  border-color: rgba(253, 185, 19, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 100px;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0);
+}
+.view-orders-text130 {
+  color: rgba(253, 185, 19, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 16.799999237060547px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-divnewcolumns6312408 {
+  gap: 75px;
+  display: flex;
+  padding: 20px;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px 0 0;
+}
+.view-orders-svg {
+  width: 24px;
+  height: 23px;
+}
+.view-orders-text132 {
+  color: rgba(255, 255, 255, 1);
+  width: 115px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-svg1 {
+  width: 23px;
+  height: 18px;
+}
+.view-orders-link1 {
+  gap: 10px;
+  display: flex;
+  align-items: center;
+}
+.view-orders-text134 {
+  color: rgba(255, 255, 255, 1);
+  width: 154px;
+  height: auto;
+  font-size: 15.875px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 25.600000381469727px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.view-orders-link2 {
+  gap: 10px;
+  display: flex;
+  padding: 6px;
+  align-items: center;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.699999988079071);
+}
+.view-orders-svg2 {
+  width: 12px;
+  height: 12px;
+}
+.view-orders-link3 {
+  gap: 10px;
+  display: flex;
+  padding: 6px;
+  align-items: center;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.699999988079071);
+}
+.view-orders-svg3 {
+  width: 12px;
+  height: 12px;
+}
+.view-orders-link4 {
+  gap: 10px;
+  display: flex;
+  padding: 6px;
+  align-items: center;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.699999988079071);
+}
+.view-orders-svg4 {
+  width: 12px;
+  height: 12px;
+}
+.view-orders-link5 {
+  gap: 10px;
+  display: flex;
+  padding: 6px;
+  align-items: center;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.699999988079071);
+}
+.view-orders-svg5 {
+  width: 12px;
+  height: 12px;
+}
+.view-orders-link6 {
+  gap: 10px;
+  display: flex;
+  padding: 6px;
+  align-items: center;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.699999988079071);
+}
+.view-orders-svg6 {
+  width: 12px;
+  height: 12px;
+}
+.view-orders-divnewcolumns7312408 {
+  gap: 24px;
+  display: flex;
+  padding: 20px;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px 0 0;
+}
+.view-orders-link7 {
+  display: flex;
+  opacity: 0.70;
+  padding: 0 40px;
+  align-items: center;
+  flex-direction: column;
+}
+.view-orders-proudly-sa-whitepng {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+  background-size: cover;
+  background-image: url("/external/tq_khiv5vuk9b-4llo-500h.png");
+}
+.view-orders-text136 {
+  color: rgba(86, 109, 143, 1);
+  width: 410px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 22.399999618530273px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.view-orders-menus {
+  gap: 24px;
+  display: flex;
+  align-items: center;
+}
+.view-orders-text138 {
+  color: rgba(127, 139, 147, 1);
+  width: 360px;
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.200000762939453px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.view-orders-text140 {
+  color: rgba(127, 139, 147, 1);
+  width: 34px;
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.200000762939453px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.view-orders-text142 {
+  color: rgba(127, 139, 147, 1);
+  width: 75px;
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.200000762939453px;
+  font-stretch: normal;
+  text-decoration: underline;
+}

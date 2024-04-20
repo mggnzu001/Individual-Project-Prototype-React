@@ -1,0 +1,2081 @@
+.planyourtrip-select-stops-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.planyourtrip-select-stops-planyourtrip-select-stops {
+  gap: 20px;
+  width: 100%;
+  height: 1556px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.planyourtrip-select-stops-header-signed {
+  gap: 12px;
+  top: 0px;
+  left: 4px;
+  width: 1440px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.planyourtrip-select-stops-header-logo {
+  gap: 10px;
+  width: 150px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.planyourtrip-select-stops-imag-ebabe0ecf3ccc410faf1c05a53b7ee68a1 {
+  width: 150px;
+  height: 150px;
+}
+.planyourtrip-select-stops-header-name {
+  gap: 10px;
+  width: 491px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.planyourtrip-select-stops-text {
+  color: rgba(0, 0, 0, 1);
+  width: 491px;
+  height: auto;
+  font-size: 51px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-header-links {
+  width: 607px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.planyourtrip-select-stops-about-us {
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.planyourtrip-select-stops-clickable-frame {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.planyourtrip-select-stops-text002 {
+  color: rgba(0, 0, 0, 1);
+  width: 115px;
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-eparrowdownbold {
+  width: 27px;
+  height: 25px;
+}
+.planyourtrip-select-stops-rules {
+  gap: 10px;
+  height: 150px;
+  display: flex;
+  padding: 55px 0;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.planyourtrip-select-stops-text004 {
+  color: rgba(0, 0, 0, 1);
+  width: 115px;
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-news {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.planyourtrip-select-stops-clickable-frame1 {
+  display: flex;
+  align-items: center;
+}
+.planyourtrip-select-stops-text006 {
+  color: rgba(0, 0, 0, 1);
+  width: 115px;
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-eparrowdownbold1 {
+  width: 27px;
+  height: 25px;
+}
+.planyourtrip-select-stops-wishlist {
+  width: 128px;
+  height: 150px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.planyourtrip-select-stops-text008 {
+  top: 56px;
+  left: 6px;
+  color: rgba(0, 0, 0, 1);
+  width: 115px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-burger-menubutton {
+  gap: 10px;
+  height: 150px;
+  display: flex;
+  padding: 47px 43px;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.planyourtrip-select-stops-iconamoonmenuburgerhorizontalbold {
+  width: 72px;
+  height: 56px;
+}
+.planyourtrip-select-stops-content {
+  top: 150px;
+  left: 0px;
+  width: 1441px;
+  height: 978px;
+  display: flex;
+  padding: 0 20px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.planyourtrip-select-stops-title {
+  gap: 10px;
+  height: 169px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.planyourtrip-select-stops-text010 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 54px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-actual-content {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.planyourtrip-select-stops-suggestions-frame {
+  gap: 83px;
+  width: 700.5px;
+  display: flex;
+  padding: 70px 20px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.planyourtrip-select-stops-suggestions {
+  width: 699px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.planyourtrip-select-stops-stop-numbers {
+  gap: 10px;
+  height: 950px;
+  display: flex;
+  padding: 20px 10px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.planyourtrip-select-stops-stop1 {
+  width: 108px;
+  height: 155px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.planyourtrip-select-stops-ellipse1 {
+  top: 0px;
+  left: 0px;
+  width: 108px;
+  height: 108px;
+  position: absolute;
+}
+.planyourtrip-select-stops-ellipse2 {
+  top: 7px;
+  left: 6px;
+  width: 95px;
+  height: 95px;
+  position: absolute;
+}
+.planyourtrip-select-stops-text012 {
+  color: rgba(0, 0, 0, 1);
+  width: 108px;
+  height: auto;
+  position: absolute;
+  font-size: 65px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-frame3 {
+  gap: 10px;
+  top: 108px;
+  left: 0px;
+  width: 108px;
+  height: 47px;
+  display: flex;
+  padding: 9px 0;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.planyourtrip-select-stops-text013 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-stop2 {
+  width: 108px;
+  height: 155px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.planyourtrip-select-stops-ellipse11 {
+  top: 0px;
+  left: 0px;
+  width: 108px;
+  height: 108px;
+  position: absolute;
+}
+.planyourtrip-select-stops-ellipse21 {
+  top: 7px;
+  left: 6px;
+  width: 95px;
+  height: 95px;
+  position: absolute;
+}
+.planyourtrip-select-stops-text015 {
+  color: rgba(0, 0, 0, 1);
+  width: 108px;
+  height: auto;
+  position: absolute;
+  font-size: 65px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-frame31 {
+  gap: 10px;
+  top: 108px;
+  left: 0px;
+  width: 108px;
+  height: 47px;
+  display: flex;
+  padding: 9px 0;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.planyourtrip-select-stops-text016 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-stop3 {
+  width: 108px;
+  height: 155px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.planyourtrip-select-stops-ellipse12 {
+  top: 0px;
+  left: 0px;
+  width: 108px;
+  height: 108px;
+  position: absolute;
+}
+.planyourtrip-select-stops-ellipse22 {
+  top: 7px;
+  left: 6px;
+  width: 95px;
+  height: 95px;
+  position: absolute;
+}
+.planyourtrip-select-stops-text018 {
+  color: rgba(0, 0, 0, 1);
+  width: 108px;
+  height: auto;
+  position: absolute;
+  font-size: 65px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-frame32 {
+  gap: 10px;
+  top: 108px;
+  left: 0px;
+  width: 108px;
+  height: 47px;
+  display: flex;
+  padding: 9px 0;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.planyourtrip-select-stops-text019 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-stop4 {
+  width: 108px;
+  height: 155px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.planyourtrip-select-stops-ellipse13 {
+  top: 0px;
+  left: 0px;
+  width: 108px;
+  height: 108px;
+  position: absolute;
+}
+.planyourtrip-select-stops-ellipse23 {
+  top: 7px;
+  left: 6px;
+  width: 95px;
+  height: 95px;
+  position: absolute;
+}
+.planyourtrip-select-stops-text021 {
+  color: rgba(0, 0, 0, 1);
+  width: 108px;
+  height: auto;
+  position: absolute;
+  font-size: 65px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-frame33 {
+  gap: 10px;
+  top: 108px;
+  left: 0px;
+  width: 108px;
+  height: 47px;
+  display: flex;
+  padding: 9px 0;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.planyourtrip-select-stops-text022 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-stop-decriptions {
+  gap: 19px;
+  height: 950px;
+  display: flex;
+  padding: 1px 0;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.planyourtrip-select-stops-suggestions1 {
+  gap: 10px;
+  width: 503px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+}
+.planyourtrip-select-stops-frame8 {
+  gap: 10px;
+  width: 813px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.planyourtrip-select-stops-order-item {
+  gap: 5px;
+  height: 166.5px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1.5px;
+  border-radius: 5px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.planyourtrip-select-stops-itemimage {
+  gap: 5px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.planyourtrip-select-stops-rectangle5 {
+  width: 115px;
+  height: 84px;
+}
+.planyourtrip-select-stops-item-details {
+  display: flex;
+  z-index: 1;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.planyourtrip-select-stops-text024 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-text026 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 11.5px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.planyourtrip-select-stops-plus {
+  gap: 5px;
+  width: 160.5px;
+  height: 103px;
+  display: flex;
+  z-index: 2;
+  align-items: flex-end;
+  flex-shrink: 0;
+  justify-content: flex-end;
+}
+.planyourtrip-select-stops-add-location {
+  width: 45px;
+  height: 45px;
+}
+.planyourtrip-select-stops-order-item01 {
+  gap: 5px;
+  height: 166.5px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1.5px;
+  border-radius: 5px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.planyourtrip-select-stops-itemimage01 {
+  gap: 5px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.planyourtrip-select-stops-rectangle501 {
+  width: 115px;
+  height: 84px;
+}
+.planyourtrip-select-stops-item-details01 {
+  display: flex;
+  z-index: 1;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.planyourtrip-select-stops-text028 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-text030 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 11.5px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.planyourtrip-select-stops-plus01 {
+  gap: 5px;
+  width: 160.5px;
+  height: 103px;
+  display: flex;
+  z-index: 2;
+  align-items: flex-end;
+  flex-shrink: 0;
+  justify-content: flex-end;
+}
+.planyourtrip-select-stops-add-location1 {
+  width: 45px;
+  height: 45px;
+}
+.planyourtrip-select-stops-order-item02 {
+  gap: 5px;
+  height: 166.5px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1.5px;
+  border-radius: 5px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.planyourtrip-select-stops-itemimage02 {
+  gap: 5px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.planyourtrip-select-stops-rectangle502 {
+  width: 115px;
+  height: 84px;
+}
+.planyourtrip-select-stops-item-details02 {
+  display: flex;
+  z-index: 1;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.planyourtrip-select-stops-text032 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-text034 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 11.5px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.planyourtrip-select-stops-plus02 {
+  gap: 5px;
+  width: 160.5px;
+  height: 103px;
+  display: flex;
+  z-index: 2;
+  align-items: flex-end;
+  flex-shrink: 0;
+  justify-content: flex-end;
+}
+.planyourtrip-select-stops-view-more-companies {
+  gap: 10px;
+  display: flex;
+  padding: 15px 35px;
+  overflow: hidden;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.planyourtrip-select-stops-suggestions2 {
+  gap: 10px;
+  width: 503px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+}
+.planyourtrip-select-stops-frame81 {
+  gap: 10px;
+  width: 813px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.planyourtrip-select-stops-order-item03 {
+  gap: 5px;
+  height: 166.5px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1.5px;
+  border-radius: 5px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.planyourtrip-select-stops-itemimage03 {
+  gap: 5px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.planyourtrip-select-stops-rectangle503 {
+  width: 115px;
+  height: 84px;
+}
+.planyourtrip-select-stops-item-details03 {
+  display: flex;
+  z-index: 1;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.planyourtrip-select-stops-text036 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-text038 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 11.5px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.planyourtrip-select-stops-plus03 {
+  gap: 5px;
+  width: 160.5px;
+  height: 103px;
+  display: flex;
+  z-index: 2;
+  align-items: flex-end;
+  flex-shrink: 0;
+  justify-content: flex-end;
+}
+.planyourtrip-select-stops-add-location2 {
+  width: 45px;
+  height: 45px;
+}
+.planyourtrip-select-stops-order-item04 {
+  gap: 5px;
+  height: 166.5px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1.5px;
+  border-radius: 5px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.planyourtrip-select-stops-itemimage04 {
+  gap: 5px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.planyourtrip-select-stops-rectangle504 {
+  width: 115px;
+  height: 84px;
+}
+.planyourtrip-select-stops-item-details04 {
+  display: flex;
+  z-index: 1;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.planyourtrip-select-stops-text040 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-text042 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 11.5px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.planyourtrip-select-stops-plus04 {
+  gap: 5px;
+  width: 160.5px;
+  height: 103px;
+  display: flex;
+  z-index: 2;
+  align-items: flex-end;
+  flex-shrink: 0;
+  justify-content: flex-end;
+}
+.planyourtrip-select-stops-add-location3 {
+  width: 45px;
+  height: 45px;
+}
+.planyourtrip-select-stops-order-item05 {
+  gap: 5px;
+  height: 166.5px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1.5px;
+  border-radius: 5px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.planyourtrip-select-stops-itemimage05 {
+  gap: 5px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.planyourtrip-select-stops-rectangle505 {
+  width: 115px;
+  height: 84px;
+}
+.planyourtrip-select-stops-item-details05 {
+  display: flex;
+  z-index: 1;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.planyourtrip-select-stops-text044 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-text046 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 11.5px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.planyourtrip-select-stops-plus05 {
+  gap: 5px;
+  width: 160.5px;
+  height: 103px;
+  display: flex;
+  z-index: 2;
+  align-items: flex-end;
+  flex-shrink: 0;
+  justify-content: flex-end;
+}
+.planyourtrip-select-stops-view-more-companies1 {
+  gap: 10px;
+  display: flex;
+  padding: 15px 35px;
+  overflow: hidden;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.planyourtrip-select-stops-suggestions3 {
+  gap: 10px;
+  width: 503px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+}
+.planyourtrip-select-stops-frame82 {
+  gap: 10px;
+  width: 813px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.planyourtrip-select-stops-order-item06 {
+  gap: 5px;
+  height: 166.5px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1.5px;
+  border-radius: 5px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.planyourtrip-select-stops-itemimage06 {
+  gap: 5px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.planyourtrip-select-stops-rectangle506 {
+  width: 115px;
+  height: 84px;
+}
+.planyourtrip-select-stops-item-details06 {
+  display: flex;
+  z-index: 1;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.planyourtrip-select-stops-text048 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-text050 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 11.5px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.planyourtrip-select-stops-plus06 {
+  gap: 5px;
+  width: 160.5px;
+  height: 103px;
+  display: flex;
+  z-index: 2;
+  align-items: flex-end;
+  flex-shrink: 0;
+  justify-content: flex-end;
+}
+.planyourtrip-select-stops-add-location4 {
+  width: 45px;
+  height: 45px;
+}
+.planyourtrip-select-stops-order-item07 {
+  gap: 5px;
+  height: 166.5px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1.5px;
+  border-radius: 5px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.planyourtrip-select-stops-itemimage07 {
+  gap: 5px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.planyourtrip-select-stops-rectangle507 {
+  width: 115px;
+  height: 84px;
+}
+.planyourtrip-select-stops-item-details07 {
+  display: flex;
+  z-index: 1;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.planyourtrip-select-stops-text052 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-text054 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 11.5px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.planyourtrip-select-stops-plus07 {
+  gap: 5px;
+  width: 160.5px;
+  height: 103px;
+  display: flex;
+  z-index: 2;
+  align-items: flex-end;
+  flex-shrink: 0;
+  justify-content: flex-end;
+}
+.planyourtrip-select-stops-add-location5 {
+  width: 45px;
+  height: 45px;
+}
+.planyourtrip-select-stops-order-item08 {
+  gap: 5px;
+  height: 166.5px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1.5px;
+  border-radius: 5px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.planyourtrip-select-stops-itemimage08 {
+  gap: 5px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.planyourtrip-select-stops-rectangle508 {
+  width: 115px;
+  height: 84px;
+}
+.planyourtrip-select-stops-item-details08 {
+  display: flex;
+  z-index: 1;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.planyourtrip-select-stops-text056 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-text058 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 11.5px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.planyourtrip-select-stops-plus08 {
+  gap: 5px;
+  width: 160.5px;
+  height: 103px;
+  display: flex;
+  z-index: 2;
+  align-items: flex-end;
+  flex-shrink: 0;
+  justify-content: flex-end;
+}
+.planyourtrip-select-stops-view-more-companies2 {
+  gap: 10px;
+  display: flex;
+  padding: 15px 35px;
+  overflow: hidden;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.planyourtrip-select-stops-suggestions4 {
+  gap: 10px;
+  width: 503px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+}
+.planyourtrip-select-stops-frame83 {
+  gap: 10px;
+  width: 813px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.planyourtrip-select-stops-order-item09 {
+  gap: 5px;
+  height: 166.5px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1.5px;
+  border-radius: 5px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.planyourtrip-select-stops-itemimage09 {
+  gap: 5px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.planyourtrip-select-stops-rectangle509 {
+  width: 115px;
+  height: 84px;
+}
+.planyourtrip-select-stops-item-details09 {
+  display: flex;
+  z-index: 1;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.planyourtrip-select-stops-text060 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-text062 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 11.5px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.planyourtrip-select-stops-plus09 {
+  gap: 5px;
+  width: 160.5px;
+  height: 103px;
+  display: flex;
+  z-index: 2;
+  align-items: flex-end;
+  flex-shrink: 0;
+  justify-content: flex-end;
+}
+.planyourtrip-select-stops-order-item10 {
+  gap: 5px;
+  height: 166.5px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1.5px;
+  border-radius: 5px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.planyourtrip-select-stops-itemimage10 {
+  gap: 5px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.planyourtrip-select-stops-rectangle510 {
+  width: 115px;
+  height: 84px;
+}
+.planyourtrip-select-stops-item-details10 {
+  display: flex;
+  z-index: 1;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.planyourtrip-select-stops-text064 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-text066 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 11.5px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.planyourtrip-select-stops-plus10 {
+  gap: 5px;
+  width: 160.5px;
+  height: 103px;
+  display: flex;
+  z-index: 2;
+  align-items: flex-end;
+  flex-shrink: 0;
+  justify-content: flex-end;
+}
+.planyourtrip-select-stops-order-item11 {
+  gap: 5px;
+  height: 166.5px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1.5px;
+  border-radius: 5px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.planyourtrip-select-stops-itemimage11 {
+  gap: 5px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.planyourtrip-select-stops-rectangle511 {
+  width: 115px;
+  height: 84px;
+}
+.planyourtrip-select-stops-item-details11 {
+  display: flex;
+  z-index: 1;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.planyourtrip-select-stops-text068 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-text070 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 11.5px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.planyourtrip-select-stops-plus11 {
+  gap: 5px;
+  width: 160.5px;
+  height: 103px;
+  display: flex;
+  z-index: 2;
+  align-items: flex-end;
+  flex-shrink: 0;
+  justify-content: flex-end;
+}
+.planyourtrip-select-stops-view-more-companies3 {
+  gap: 10px;
+  display: flex;
+  padding: 15px 35px;
+  overflow: hidden;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.planyourtrip-select-stops-map {
+  gap: 10px;
+  width: 700.5px;
+  display: flex;
+  padding: 65px 40px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.planyourtrip-select-stops-itenerary-map-container {
+  width: 620.5px;
+  height: 598px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.planyourtrip-select-stops-navigationbuttons {
+  display: flex;
+  padding: 10px 0;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.planyourtrip-select-stops-textbutton {
+  gap: 10px;
+  display: flex;
+  padding: 14px 36px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-default-buttongreen);
+}
+.planyourtrip-select-stops-text072 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-textbutton1 {
+  gap: 10px;
+  display: flex;
+  padding: 14px 36px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-default-buttongreen);
+}
+.planyourtrip-select-stops-text074 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-footer {
+  top: 1128px;
+  left: -2px;
+  width: 1445px;
+  height: 427px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 26, 64, 1);
+}
+.planyourtrip-select-stops-divctsectioninnerwrap {
+  gap: 40px;
+  top: 68px;
+  left: 163px;
+  width: 1120px;
+  display: flex;
+  padding: 0 22px;
+  position: absolute;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.planyourtrip-select-stops-readytobeamember {
+  gap: 12px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.planyourtrip-select-stops-text076 {
+  color: rgba(255, 255, 255, 1);
+  width: 327px;
+  height: auto;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-text078 {
+  color: rgba(255, 255, 255, 0.699999988079071);
+  width: 391px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-details-frame {
+  gap: 58px;
+  display: flex;
+  align-items: flex-start;
+}
+.planyourtrip-select-stops-membership {
+  gap: 13px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.planyourtrip-select-stops-text088 {
+  color: rgba(255, 255, 255, 1);
+  width: 96px;
+  height: auto;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 500;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-text090 {
+  color: rgba(253, 185, 19, 1);
+  width: 142px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-text092 {
+  color: rgba(253, 185, 19, 1);
+  width: 98px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-text094 {
+  color: rgba(253, 185, 19, 1);
+  width: 105px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-text096 {
+  color: rgba(253, 185, 19, 1);
+  width: 97px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-text098 {
+  color: rgba(253, 185, 19, 1);
+  width: 129px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-proudly-south-african {
+  gap: 13px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.planyourtrip-select-stops-text100 {
+  color: rgba(255, 255, 255, 1);
+  width: 174px;
+  height: auto;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 500;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-text102 {
+  color: rgba(253, 185, 19, 1);
+  width: 57px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-text104 {
+  color: rgba(253, 185, 19, 1);
+  width: 69px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-text106 {
+  color: rgba(253, 185, 19, 1);
+  width: 114px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-text108 {
+  color: rgba(253, 185, 19, 1);
+  width: 35px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-text110 {
+  color: rgba(253, 185, 19, 1);
+  width: 134px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-reports {
+  gap: 13px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.planyourtrip-select-stops-text112 {
+  color: rgba(255, 255, 255, 1);
+  width: 62px;
+  height: auto;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 500;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-text114 {
+  color: rgba(253, 185, 19, 1);
+  width: 113px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-text116 {
+  color: rgba(253, 185, 19, 1);
+  width: 97px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-text118 {
+  color: rgba(253, 185, 19, 1);
+  width: 162px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-text120 {
+  color: rgba(253, 185, 19, 1);
+  width: 100px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-link {
+  gap: 10px;
+  display: flex;
+  padding: 12px 49px;
+  align-items: center;
+  border-color: rgba(253, 185, 19, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 100px;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0);
+}
+.planyourtrip-select-stops-text122 {
+  color: rgba(253, 185, 19, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 16.799999237060547px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-divnewcolumns6312408 {
+  gap: 75px;
+  display: flex;
+  padding: 20px;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px 0 0;
+}
+.planyourtrip-select-stops-svg {
+  width: 24px;
+  height: 23px;
+}
+.planyourtrip-select-stops-text124 {
+  color: rgba(255, 255, 255, 1);
+  width: 115px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-svg1 {
+  width: 23px;
+  height: 18px;
+}
+.planyourtrip-select-stops-link1 {
+  gap: 10px;
+  display: flex;
+  align-items: center;
+}
+.planyourtrip-select-stops-text126 {
+  color: rgba(255, 255, 255, 1);
+  width: 154px;
+  height: auto;
+  font-size: 15.875px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 25.600000381469727px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.planyourtrip-select-stops-link2 {
+  gap: 10px;
+  display: flex;
+  padding: 6px;
+  align-items: center;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.699999988079071);
+}
+.planyourtrip-select-stops-svg2 {
+  width: 12px;
+  height: 12px;
+}
+.planyourtrip-select-stops-link3 {
+  gap: 10px;
+  display: flex;
+  padding: 6px;
+  align-items: center;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.699999988079071);
+}
+.planyourtrip-select-stops-svg3 {
+  width: 12px;
+  height: 12px;
+}
+.planyourtrip-select-stops-link4 {
+  gap: 10px;
+  display: flex;
+  padding: 6px;
+  align-items: center;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.699999988079071);
+}
+.planyourtrip-select-stops-svg4 {
+  width: 12px;
+  height: 12px;
+}
+.planyourtrip-select-stops-link5 {
+  gap: 10px;
+  display: flex;
+  padding: 6px;
+  align-items: center;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.699999988079071);
+}
+.planyourtrip-select-stops-svg5 {
+  width: 12px;
+  height: 12px;
+}
+.planyourtrip-select-stops-link6 {
+  gap: 10px;
+  display: flex;
+  padding: 6px;
+  align-items: center;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.699999988079071);
+}
+.planyourtrip-select-stops-svg6 {
+  width: 12px;
+  height: 12px;
+}
+.planyourtrip-select-stops-divnewcolumns7312408 {
+  gap: 24px;
+  display: flex;
+  padding: 20px;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px 0 0;
+}
+.planyourtrip-select-stops-link7 {
+  display: flex;
+  opacity: 0.70;
+  padding: 0 40px;
+  align-items: center;
+  flex-direction: column;
+}
+.planyourtrip-select-stops-proudly-sa-whitepng {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+  background-size: cover;
+  background-image: url("/external/tq_pbefe1txi--q958-500h.png");
+}
+.planyourtrip-select-stops-text128 {
+  color: rgba(86, 109, 143, 1);
+  width: 410px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 22.399999618530273px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.planyourtrip-select-stops-menus {
+  gap: 24px;
+  display: flex;
+  align-items: center;
+}
+.planyourtrip-select-stops-text130 {
+  color: rgba(127, 139, 147, 1);
+  width: 360px;
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.200000762939453px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.planyourtrip-select-stops-text132 {
+  color: rgba(127, 139, 147, 1);
+  width: 34px;
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.200000762939453px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.planyourtrip-select-stops-text134 {
+  color: rgba(127, 139, 147, 1);
+  width: 75px;
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.200000762939453px;
+  font-stretch: normal;
+  text-decoration: underline;
+}

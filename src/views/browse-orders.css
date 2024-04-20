@@ -1,0 +1,3403 @@
+.browse-orders-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.browse-orders-browse-orders {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.browse-orders-header-signed {
+  gap: 12px;
+  width: 1440px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-header-logo {
+  gap: 10px;
+  width: 150px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-imag-ebabe0ecf3ccc410faf1c05a53b7ee68a1 {
+  width: 150px;
+  height: 150px;
+}
+.browse-orders-header-name {
+  gap: 10px;
+  width: 491px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-text {
+  color: rgba(0, 0, 0, 1);
+  width: 491px;
+  height: auto;
+  font-size: 51px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-header-links {
+  width: 607px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-about-us {
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.browse-orders-clickable-frame {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.browse-orders-text002 {
+  color: rgba(0, 0, 0, 1);
+  width: 115px;
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-eparrowdownbold {
+  width: 27px;
+  height: 25px;
+}
+.browse-orders-rules {
+  gap: 10px;
+  height: 150px;
+  display: flex;
+  padding: 55px 0;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.browse-orders-text004 {
+  color: rgba(0, 0, 0, 1);
+  width: 115px;
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-news {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.browse-orders-clickable-frame1 {
+  display: flex;
+  align-items: center;
+}
+.browse-orders-text006 {
+  color: rgba(0, 0, 0, 1);
+  width: 115px;
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-eparrowdownbold1 {
+  width: 27px;
+  height: 25px;
+}
+.browse-orders-wishlist {
+  width: 128px;
+  height: 150px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.browse-orders-text008 {
+  top: 56px;
+  left: 6px;
+  color: rgba(0, 0, 0, 1);
+  width: 115px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-burger-menubutton {
+  gap: 10px;
+  height: 150px;
+  display: flex;
+  padding: 47px 43px;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.browse-orders-iconamoonmenuburgerhorizontalbold {
+  width: 72px;
+  height: 56px;
+}
+.browse-orders-searchandutility {
+  gap: 10px;
+  width: 1438px;
+  height: 173px;
+  display: flex;
+  padding: 31px 67px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+  background-color: rgba(255, 255, 255, 1);
+}
+.browse-orders-search-frame {
+  gap: 10px;
+  display: flex;
+  padding: 23px 30px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  justify-content: space-between;
+}
+.browse-orders-search-bar {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: flex-start;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+  background-color: rgba(220, 220, 220, 1);
+}
+.browse-orders-text010 {
+  color: rgba(0, 0, 0, 1);
+  width: 726px;
+  height: auto;
+  font-size: 12px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-filters-frame {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-type {
+  gap: 10px;
+  display: flex;
+  padding: 15px 70px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  justify-content: space-between;
+}
+.browse-orders-text012 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-eparrowdownbold2 {
+  width: 28px;
+  height: 28px;
+}
+.browse-orders-location {
+  gap: 10px;
+  display: flex;
+  padding: 21px 50px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  justify-content: space-between;
+}
+.browse-orders-text014 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-eparrowdownbold3 {
+  width: 28px;
+  height: 28px;
+}
+.browse-orders-title {
+  gap: 10px;
+  width: 1438px;
+  height: 173px;
+  display: flex;
+  padding: 31px 67px;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.browse-orders-label {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.browse-orders-text016 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 64px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-line {
+  gap: 10px;
+  display: flex;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.browse-orders-line6 {
+  width: 1304px;
+  height: 1px;
+  flex-grow: 1;
+  align-self: stretch;
+}
+.browse-orders-products {
+  gap: 60px;
+  display: flex;
+  padding: 60px;
+  overflow: hidden;
+  flex-wrap: wrap;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.browse-orders-order-item {
+  gap: 10px;
+  display: flex;
+  padding: 20px;
+  overflow: hidden;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.browse-orders-itemimage {
+  width: 230px;
+  height: 158px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.browse-orders-rectangle5 {
+  top: 0px;
+  left: 0px;
+  width: 230px;
+  height: 169px;
+  position: absolute;
+}
+.browse-orders-item-details {
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.browse-orders-text018 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 28px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-city {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-text020 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-text022 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-bottom-frame {
+  gap: 6px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-price {
+  gap: 10px;
+  width: 69px;
+  display: flex;
+  padding: 12px 55px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.browse-orders-text024 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-addto-cart {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.browse-orders-textbutton {
+  gap: 10px;
+  display: flex;
+  padding: 14px 36px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-default-buttongreen);
+}
+.browse-orders-text026 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-order-item01 {
+  gap: 10px;
+  display: flex;
+  padding: 20px;
+  overflow: hidden;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.browse-orders-itemimage01 {
+  width: 230px;
+  height: 158px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.browse-orders-rectangle501 {
+  top: 0px;
+  left: 0px;
+  width: 230px;
+  height: 169px;
+  position: absolute;
+}
+.browse-orders-item-details01 {
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.browse-orders-text028 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 28px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-city01 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-text030 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-text032 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-bottom-frame01 {
+  gap: 6px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-price01 {
+  gap: 10px;
+  width: 69px;
+  display: flex;
+  padding: 12px 55px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.browse-orders-text034 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-addto-cart01 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.browse-orders-textbutton01 {
+  gap: 10px;
+  display: flex;
+  padding: 14px 36px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-default-buttongreen);
+}
+.browse-orders-text036 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-order-item02 {
+  gap: 10px;
+  display: flex;
+  padding: 20px;
+  overflow: hidden;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.browse-orders-itemimage02 {
+  width: 230px;
+  height: 158px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.browse-orders-rectangle502 {
+  top: 0px;
+  left: 0px;
+  width: 230px;
+  height: 169px;
+  position: absolute;
+}
+.browse-orders-item-details02 {
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.browse-orders-text038 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 28px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-city02 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-text040 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-text042 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-bottom-frame02 {
+  gap: 6px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-price02 {
+  gap: 10px;
+  width: 69px;
+  display: flex;
+  padding: 12px 55px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.browse-orders-text044 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-addto-cart02 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.browse-orders-textbutton02 {
+  gap: 10px;
+  display: flex;
+  padding: 14px 36px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-default-buttongreen);
+}
+.browse-orders-text046 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-order-item03 {
+  gap: 10px;
+  display: flex;
+  padding: 20px;
+  overflow: hidden;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.browse-orders-itemimage03 {
+  width: 230px;
+  height: 158px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.browse-orders-rectangle503 {
+  top: 0px;
+  left: 0px;
+  width: 230px;
+  height: 169px;
+  position: absolute;
+}
+.browse-orders-item-details03 {
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.browse-orders-text048 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 28px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-city03 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-text050 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-text052 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-bottom-frame03 {
+  gap: 6px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-price03 {
+  gap: 10px;
+  width: 69px;
+  display: flex;
+  padding: 12px 55px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.browse-orders-text054 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-addto-cart03 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.browse-orders-textbutton03 {
+  gap: 10px;
+  display: flex;
+  padding: 14px 36px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-default-buttongreen);
+}
+.browse-orders-text056 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-order-item04 {
+  gap: 10px;
+  display: flex;
+  padding: 20px;
+  overflow: hidden;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.browse-orders-itemimage04 {
+  width: 230px;
+  height: 158px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.browse-orders-rectangle504 {
+  top: 0px;
+  left: 0px;
+  width: 230px;
+  height: 169px;
+  position: absolute;
+}
+.browse-orders-item-details04 {
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.browse-orders-text058 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 28px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-city04 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-text060 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-text062 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-bottom-frame04 {
+  gap: 6px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-price04 {
+  gap: 10px;
+  width: 69px;
+  display: flex;
+  padding: 12px 55px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.browse-orders-text064 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-addto-cart04 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.browse-orders-textbutton04 {
+  gap: 10px;
+  display: flex;
+  padding: 14px 36px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-default-buttongreen);
+}
+.browse-orders-text066 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-order-item05 {
+  gap: 10px;
+  display: flex;
+  padding: 20px;
+  overflow: hidden;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.browse-orders-itemimage05 {
+  width: 230px;
+  height: 158px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.browse-orders-rectangle505 {
+  top: 0px;
+  left: 0px;
+  width: 230px;
+  height: 169px;
+  position: absolute;
+}
+.browse-orders-item-details05 {
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.browse-orders-text068 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 28px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-city05 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-text070 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-text072 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-bottom-frame05 {
+  gap: 6px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-price05 {
+  gap: 10px;
+  width: 69px;
+  display: flex;
+  padding: 12px 55px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.browse-orders-text074 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-addto-cart05 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.browse-orders-textbutton05 {
+  gap: 10px;
+  display: flex;
+  padding: 14px 36px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-default-buttongreen);
+}
+.browse-orders-text076 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-order-item06 {
+  gap: 10px;
+  display: flex;
+  padding: 20px;
+  overflow: hidden;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.browse-orders-itemimage06 {
+  width: 230px;
+  height: 158px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.browse-orders-rectangle506 {
+  top: 0px;
+  left: 0px;
+  width: 230px;
+  height: 169px;
+  position: absolute;
+}
+.browse-orders-item-details06 {
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.browse-orders-text078 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 28px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-city06 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-text080 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-text082 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-bottom-frame06 {
+  gap: 6px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-price06 {
+  gap: 10px;
+  width: 69px;
+  display: flex;
+  padding: 12px 55px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.browse-orders-text084 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-addto-cart06 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.browse-orders-textbutton06 {
+  gap: 10px;
+  display: flex;
+  padding: 14px 36px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-default-buttongreen);
+}
+.browse-orders-text086 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-order-item07 {
+  gap: 10px;
+  display: flex;
+  padding: 20px;
+  overflow: hidden;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.browse-orders-itemimage07 {
+  width: 230px;
+  height: 158px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.browse-orders-rectangle507 {
+  top: 0px;
+  left: 0px;
+  width: 230px;
+  height: 169px;
+  position: absolute;
+}
+.browse-orders-item-details07 {
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.browse-orders-text088 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 28px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-city07 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-text090 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-text092 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-bottom-frame07 {
+  gap: 6px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-price07 {
+  gap: 10px;
+  width: 69px;
+  display: flex;
+  padding: 12px 55px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.browse-orders-text094 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-addto-cart07 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.browse-orders-textbutton07 {
+  gap: 10px;
+  display: flex;
+  padding: 14px 36px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-default-buttongreen);
+}
+.browse-orders-text096 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-order-item08 {
+  gap: 10px;
+  display: flex;
+  padding: 20px;
+  overflow: hidden;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.browse-orders-itemimage08 {
+  width: 230px;
+  height: 158px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.browse-orders-rectangle508 {
+  top: 0px;
+  left: 0px;
+  width: 230px;
+  height: 169px;
+  position: absolute;
+}
+.browse-orders-item-details08 {
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.browse-orders-text098 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 28px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-city08 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-text100 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-text102 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-bottom-frame08 {
+  gap: 6px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-price08 {
+  gap: 10px;
+  width: 69px;
+  display: flex;
+  padding: 12px 55px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.browse-orders-text104 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-addto-cart08 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.browse-orders-textbutton08 {
+  gap: 10px;
+  display: flex;
+  padding: 14px 36px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-default-buttongreen);
+}
+.browse-orders-text106 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-order-item09 {
+  gap: 10px;
+  display: flex;
+  padding: 20px;
+  overflow: hidden;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.browse-orders-itemimage09 {
+  width: 230px;
+  height: 158px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.browse-orders-rectangle509 {
+  top: 0px;
+  left: 0px;
+  width: 230px;
+  height: 169px;
+  position: absolute;
+}
+.browse-orders-item-details09 {
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.browse-orders-text108 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 28px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-city09 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-text110 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-text112 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-bottom-frame09 {
+  gap: 6px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-price09 {
+  gap: 10px;
+  width: 69px;
+  display: flex;
+  padding: 12px 55px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.browse-orders-text114 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-addto-cart09 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.browse-orders-textbutton09 {
+  gap: 10px;
+  display: flex;
+  padding: 14px 36px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-default-buttongreen);
+}
+.browse-orders-text116 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-order-item10 {
+  gap: 10px;
+  display: flex;
+  padding: 20px;
+  overflow: hidden;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.browse-orders-itemimage10 {
+  width: 230px;
+  height: 158px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.browse-orders-rectangle510 {
+  top: 0px;
+  left: 0px;
+  width: 230px;
+  height: 169px;
+  position: absolute;
+}
+.browse-orders-item-details10 {
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.browse-orders-text118 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 28px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-city10 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-text120 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-text122 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-bottom-frame10 {
+  gap: 6px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-price10 {
+  gap: 10px;
+  width: 69px;
+  display: flex;
+  padding: 12px 55px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.browse-orders-text124 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-addto-cart10 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.browse-orders-textbutton10 {
+  gap: 10px;
+  display: flex;
+  padding: 14px 36px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-default-buttongreen);
+}
+.browse-orders-text126 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-order-item11 {
+  gap: 10px;
+  display: flex;
+  padding: 20px;
+  overflow: hidden;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.browse-orders-itemimage11 {
+  width: 230px;
+  height: 158px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.browse-orders-rectangle511 {
+  top: 0px;
+  left: 0px;
+  width: 230px;
+  height: 169px;
+  position: absolute;
+}
+.browse-orders-item-details11 {
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.browse-orders-text128 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 28px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-city11 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-text130 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-text132 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-bottom-frame11 {
+  gap: 6px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-price11 {
+  gap: 10px;
+  width: 69px;
+  display: flex;
+  padding: 12px 55px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.browse-orders-text134 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-addto-cart11 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.browse-orders-textbutton11 {
+  gap: 10px;
+  display: flex;
+  padding: 14px 36px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-default-buttongreen);
+}
+.browse-orders-text136 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-order-item12 {
+  gap: 10px;
+  display: flex;
+  padding: 20px;
+  overflow: hidden;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.browse-orders-itemimage12 {
+  width: 230px;
+  height: 158px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.browse-orders-rectangle512 {
+  top: 0px;
+  left: 0px;
+  width: 230px;
+  height: 169px;
+  position: absolute;
+}
+.browse-orders-item-details12 {
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.browse-orders-text138 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 28px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-city12 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-text140 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-text142 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-bottom-frame12 {
+  gap: 6px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-price12 {
+  gap: 10px;
+  width: 69px;
+  display: flex;
+  padding: 12px 55px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.browse-orders-text144 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-addto-cart12 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.browse-orders-textbutton12 {
+  gap: 10px;
+  display: flex;
+  padding: 14px 36px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-default-buttongreen);
+}
+.browse-orders-text146 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-order-item13 {
+  gap: 10px;
+  display: flex;
+  padding: 20px;
+  overflow: hidden;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.browse-orders-itemimage13 {
+  width: 230px;
+  height: 158px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.browse-orders-rectangle513 {
+  top: 0px;
+  left: 0px;
+  width: 230px;
+  height: 169px;
+  position: absolute;
+}
+.browse-orders-item-details13 {
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.browse-orders-text148 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 28px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-city13 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-text150 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-text152 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-bottom-frame13 {
+  gap: 6px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-price13 {
+  gap: 10px;
+  width: 69px;
+  display: flex;
+  padding: 12px 55px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.browse-orders-text154 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-addto-cart13 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.browse-orders-textbutton13 {
+  gap: 10px;
+  display: flex;
+  padding: 14px 36px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-default-buttongreen);
+}
+.browse-orders-text156 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-order-item14 {
+  gap: 10px;
+  display: flex;
+  padding: 20px;
+  overflow: hidden;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.browse-orders-itemimage14 {
+  width: 230px;
+  height: 158px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.browse-orders-rectangle514 {
+  top: 0px;
+  left: 0px;
+  width: 230px;
+  height: 169px;
+  position: absolute;
+}
+.browse-orders-item-details14 {
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.browse-orders-text158 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 28px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-city14 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-text160 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-text162 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-bottom-frame14 {
+  gap: 6px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-price14 {
+  gap: 10px;
+  width: 69px;
+  display: flex;
+  padding: 12px 55px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.browse-orders-text164 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-addto-cart14 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.browse-orders-textbutton14 {
+  gap: 10px;
+  display: flex;
+  padding: 14px 36px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-default-buttongreen);
+}
+.browse-orders-text166 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-order-item15 {
+  gap: 10px;
+  display: flex;
+  padding: 20px;
+  overflow: hidden;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.browse-orders-itemimage15 {
+  width: 230px;
+  height: 158px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.browse-orders-rectangle515 {
+  top: 0px;
+  left: 0px;
+  width: 230px;
+  height: 169px;
+  position: absolute;
+}
+.browse-orders-item-details15 {
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.browse-orders-text168 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 28px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-city15 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-text170 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-text172 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-bottom-frame15 {
+  gap: 6px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-price15 {
+  gap: 10px;
+  width: 69px;
+  display: flex;
+  padding: 12px 55px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.browse-orders-text174 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-addto-cart15 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.browse-orders-textbutton15 {
+  gap: 10px;
+  display: flex;
+  padding: 14px 36px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-default-buttongreen);
+}
+.browse-orders-text176 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-order-item16 {
+  gap: 10px;
+  display: flex;
+  padding: 20px;
+  overflow: hidden;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.browse-orders-itemimage16 {
+  width: 230px;
+  height: 158px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.browse-orders-rectangle516 {
+  top: 0px;
+  left: 0px;
+  width: 230px;
+  height: 169px;
+  position: absolute;
+}
+.browse-orders-item-details16 {
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.browse-orders-text178 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 28px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-city16 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-text180 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-text182 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-bottom-frame16 {
+  gap: 6px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-price16 {
+  gap: 10px;
+  width: 69px;
+  display: flex;
+  padding: 12px 55px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.browse-orders-text184 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-addto-cart16 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.browse-orders-textbutton16 {
+  gap: 10px;
+  display: flex;
+  padding: 14px 36px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-default-buttongreen);
+}
+.browse-orders-text186 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-order-item17 {
+  gap: 10px;
+  display: flex;
+  padding: 20px;
+  overflow: hidden;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.browse-orders-itemimage17 {
+  width: 230px;
+  height: 158px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.browse-orders-rectangle517 {
+  top: 0px;
+  left: 0px;
+  width: 230px;
+  height: 169px;
+  position: absolute;
+}
+.browse-orders-item-details17 {
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.browse-orders-text188 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 28px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-city17 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-text190 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-text192 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-bottom-frame17 {
+  gap: 6px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.browse-orders-price17 {
+  gap: 10px;
+  width: 69px;
+  display: flex;
+  padding: 12px 55px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.browse-orders-text194 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 19px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Hind Mysuru;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-addto-cart17 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+}
+.browse-orders-textbutton17 {
+  gap: 10px;
+  display: flex;
+  padding: 14px 36px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-default-buttongreen);
+}
+.browse-orders-text196 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-footer {
+  width: 1440px;
+  height: 427px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 26, 64, 1);
+}
+.browse-orders-divctsectioninnerwrap {
+  gap: 40px;
+  top: 68px;
+  left: 160px;
+  width: 1120px;
+  display: flex;
+  padding: 0 22px;
+  position: absolute;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.browse-orders-readytobeamember {
+  gap: 12px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.browse-orders-text198 {
+  color: rgba(255, 255, 255, 1);
+  width: 327px;
+  height: auto;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-text200 {
+  color: rgba(255, 255, 255, 0.699999988079071);
+  width: 391px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-details-frame {
+  gap: 58px;
+  display: flex;
+  align-items: flex-start;
+}
+.browse-orders-membership {
+  gap: 13px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.browse-orders-text210 {
+  color: rgba(255, 255, 255, 1);
+  width: 96px;
+  height: auto;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 500;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-text212 {
+  color: rgba(253, 185, 19, 1);
+  width: 142px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-text214 {
+  color: rgba(253, 185, 19, 1);
+  width: 98px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-text216 {
+  color: rgba(253, 185, 19, 1);
+  width: 105px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-text218 {
+  color: rgba(253, 185, 19, 1);
+  width: 97px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-text220 {
+  color: rgba(253, 185, 19, 1);
+  width: 129px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-proudly-south-african {
+  gap: 13px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.browse-orders-text222 {
+  color: rgba(255, 255, 255, 1);
+  width: 174px;
+  height: auto;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 500;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-text224 {
+  color: rgba(253, 185, 19, 1);
+  width: 57px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-text226 {
+  color: rgba(253, 185, 19, 1);
+  width: 69px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-text228 {
+  color: rgba(253, 185, 19, 1);
+  width: 114px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-text230 {
+  color: rgba(253, 185, 19, 1);
+  width: 35px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-text232 {
+  color: rgba(253, 185, 19, 1);
+  width: 134px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-reports {
+  gap: 13px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.browse-orders-text234 {
+  color: rgba(255, 255, 255, 1);
+  width: 62px;
+  height: auto;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 500;
+  line-height: 15px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-text236 {
+  color: rgba(253, 185, 19, 1);
+  width: 113px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-text238 {
+  color: rgba(253, 185, 19, 1);
+  width: 97px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-text240 {
+  color: rgba(253, 185, 19, 1);
+  width: 162px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-text242 {
+  color: rgba(253, 185, 19, 1);
+  width: 100px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-link {
+  gap: 10px;
+  display: flex;
+  padding: 12px 49px;
+  align-items: center;
+  border-color: rgba(253, 185, 19, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 100px;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0);
+}
+.browse-orders-text244 {
+  color: rgba(253, 185, 19, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 16.799999237060547px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-divnewcolumns6312408 {
+  gap: 75px;
+  display: flex;
+  padding: 20px;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px 0 0;
+}
+.browse-orders-svg {
+  width: 24px;
+  height: 23px;
+}
+.browse-orders-text246 {
+  color: rgba(255, 255, 255, 1);
+  width: 115px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.600000381469727px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-svg1 {
+  width: 23px;
+  height: 18px;
+}
+.browse-orders-link1 {
+  gap: 10px;
+  display: flex;
+  align-items: center;
+}
+.browse-orders-text248 {
+  color: rgba(255, 255, 255, 1);
+  width: 154px;
+  height: auto;
+  font-size: 15.875px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 25.600000381469727px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.browse-orders-link2 {
+  gap: 10px;
+  display: flex;
+  padding: 6px;
+  align-items: center;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.699999988079071);
+}
+.browse-orders-svg2 {
+  width: 12px;
+  height: 12px;
+}
+.browse-orders-link3 {
+  gap: 10px;
+  display: flex;
+  padding: 6px;
+  align-items: center;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.699999988079071);
+}
+.browse-orders-svg3 {
+  width: 12px;
+  height: 12px;
+}
+.browse-orders-link4 {
+  gap: 10px;
+  display: flex;
+  padding: 6px;
+  align-items: center;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.699999988079071);
+}
+.browse-orders-svg4 {
+  width: 12px;
+  height: 12px;
+}
+.browse-orders-link5 {
+  gap: 10px;
+  display: flex;
+  padding: 6px;
+  align-items: center;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.699999988079071);
+}
+.browse-orders-svg5 {
+  width: 12px;
+  height: 12px;
+}
+.browse-orders-link6 {
+  gap: 10px;
+  display: flex;
+  padding: 6px;
+  align-items: center;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.699999988079071);
+}
+.browse-orders-svg6 {
+  width: 12px;
+  height: 12px;
+}
+.browse-orders-divnewcolumns7312408 {
+  gap: 24px;
+  display: flex;
+  padding: 20px;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px 0 0;
+}
+.browse-orders-link7 {
+  display: flex;
+  opacity: 0.70;
+  padding: 0 40px;
+  align-items: center;
+  flex-direction: column;
+}
+.browse-orders-proudly-sa-whitepng {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+  background-size: cover;
+  background-image: url("/external/tq_ayfkoenswe-icwp-500h.png");
+}
+.browse-orders-text250 {
+  color: rgba(86, 109, 143, 1);
+  width: 410px;
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 22.399999618530273px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.browse-orders-menus {
+  gap: 24px;
+  display: flex;
+  align-items: center;
+}
+.browse-orders-text252 {
+  color: rgba(127, 139, 147, 1);
+  width: 360px;
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.200000762939453px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.browse-orders-text254 {
+  color: rgba(127, 139, 147, 1);
+  width: 34px;
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.200000762939453px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.browse-orders-text256 {
+  color: rgba(127, 139, 147, 1);
+  width: 75px;
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Maven Pro;
+  font-weight: 400;
+  line-height: 19.200000762939453px;
+  font-stretch: normal;
+  text-decoration: underline;
+}

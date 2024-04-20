@@ -1,0 +1,97 @@
+.itinerary-item-card-itinerary-item-card {
+  gap: 10px;
+  width: 1440px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.itinerary-item-card-title {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.itinerary-item-card-text {
+  color: rgba(0, 0, 0, 1);
+  width: 1440px;
+  height: auto;
+  font-size: 70px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.itinerary-item-card-line4 {
+  top: 116px;
+  left: 72px;
+  width: 1295px;
+  height: 1px;
+  z-index: 1;
+  position: absolute;
+}
+
+
+
+
+
+
+
+@media(max-width: 1200px) {
+  .itinerary-item-card-itinerary-item-card {
+    width: 100%;
+  }
+  .itinerary-item-card-title {
+    width: 100%;
+  }
+  .itinerary-item-card-text {
+    width: 100%;
+  }
+  .itinerary-item-card-root-class-name {
+    width: 100%;
+  }
+  .itinerary-item-card-root-class-name1 {
+    width: 100%;
+  }
+  .itinerary-item-card-root-class-name2 {
+    width: 100%;
+  }
+  .itinerary-item-card-root-class-name3 {
+    width: 100%;
+  }
+}
+@media(max-width: 767px) {
+  .itinerary-item-card-itinerary-item-card {
+    width: 100%;
+  }
+}
+@media(max-width: 479px) {
+  .itinerary-item-card-itinerary-item-card {
+    width: 100%;
+  }
+  .itinerary-item-card-title {
+    width: 100%;
+  }
+  .itinerary-item-card-text {
+    color: rgb(0, 0, 0);
+    width: 100%;
+    font-size: 2.5rem;
+    font-family: Holtwood One SC;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .itinerary-item-card-line4 {
+    width: 100%;
+    position: static;
+  }
+}

@@ -1,0 +1,58 @@
+.navigationbuttons1-container {
+  display: flex;
+  position: relative;
+}
+.navigationbuttons1-navigationbuttons {
+  gap: var(--dl-space-space-sixunits);
+  display: flex;
+  padding: 10px 0;
+  align-self: center;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.navigationbuttons1-textbutton {
+  gap: 10px;
+  display: flex;
+  padding: 14px 36px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-default-buttongreen);
+}
+.navigationbuttons1-text {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.navigationbuttons1-textbutton1 {
+  gap: 10px;
+  display: flex;
+  padding: 14px 36px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-default-buttongreen);
+}
+.navigationbuttons1-text2 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+

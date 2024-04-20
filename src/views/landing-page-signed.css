@@ -1,0 +1,1037 @@
+.landing-page-signed-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.landing-page-signed-landing-page-signed {
+  gap: 59px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: rgba(255, 255, 255, 1);
+}
+.landing-page-signed-quick-action-frame {
+  gap: 50px;
+  width: 100%;
+  display: flex;
+  padding: 79px 38px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+  background-color: rgba(255, 255, 255, 1);
+}
+.landing-page-signed-track-your-progress-frame {
+  gap: 1px;
+  height: 679px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: rgba(255, 255, 255, 1);
+}
+.landing-page-signed-title {
+  gap: 10px;
+  width: 674px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.landing-page-signed-text {
+  color: rgba(0, 0, 0, 1);
+  width: 674px;
+  height: auto;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-signed-current-progress {
+  height: 214px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.landing-page-signed-title1 {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.landing-page-signed-text02 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-signed-stops {
+  gap: 57px;
+  width: 673px;
+  height: 185px;
+  display: flex;
+  padding: 9px 40px;
+  z-index: 1;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.landing-page-signed-stop1 {
+  width: 108px;
+  height: 155px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-page-signed-circle-frame {
+  gap: 10px;
+  top: 0px;
+  left: 0.5px;
+  width: 108px;
+  height: 155px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-page-signed-ellipse1 {
+  width: 108px;
+  height: 108px;
+}
+.landing-page-signed-ellipse2 {
+  top: 7px;
+  left: 6px;
+  width: 95px;
+  height: 95px;
+  z-index: 1;
+  position: absolute;
+}
+.landing-page-signed-text04 {
+  color: rgba(0, 0, 0, 1);
+  width: 108px;
+  height: auto;
+  z-index: 100;
+  position: absolute;
+  font-size: 65px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-signed-frame3 {
+  gap: 10px;
+  top: 108px;
+  left: 0px;
+  width: 108px;
+  height: 47px;
+  display: flex;
+  padding: 9px 0;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.landing-page-signed-text05 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-signed-stop2 {
+  width: 108px;
+  height: 155px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-page-signed-ellipse11 {
+  top: 0px;
+  left: 0px;
+  width: 108px;
+  height: 108px;
+  position: absolute;
+}
+.landing-page-signed-ellipse21 {
+  top: 7px;
+  left: 6px;
+  width: 95px;
+  height: 95px;
+  position: absolute;
+}
+.landing-page-signed-text07 {
+  color: rgba(0, 0, 0, 1);
+  width: 108px;
+  height: auto;
+  position: absolute;
+  font-size: 65px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-signed-frame31 {
+  gap: 10px;
+  top: 108px;
+  left: 0px;
+  width: 108px;
+  height: 47px;
+  display: flex;
+  padding: 9px 0;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.landing-page-signed-text08 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-signed-stop3 {
+  width: 108px;
+  height: 155px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-page-signed-ellipse12 {
+  top: 0px;
+  left: 0px;
+  width: 108px;
+  height: 108px;
+  position: absolute;
+}
+.landing-page-signed-ellipse22 {
+  top: 7px;
+  left: 6px;
+  width: 95px;
+  height: 95px;
+  position: absolute;
+}
+.landing-page-signed-text10 {
+  color: rgba(0, 0, 0, 1);
+  width: 108px;
+  height: auto;
+  position: absolute;
+  font-size: 65px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-signed-frame32 {
+  gap: 10px;
+  top: 108px;
+  left: 0px;
+  width: 108px;
+  height: 47px;
+  display: flex;
+  padding: 9px 0;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.landing-page-signed-text11 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-signed-stop4 {
+  width: 108px;
+  height: 155px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-page-signed-ellipse13 {
+  top: 0px;
+  left: 0px;
+  width: 108px;
+  height: 108px;
+  position: absolute;
+}
+.landing-page-signed-ellipse23 {
+  top: 7px;
+  left: 6px;
+  width: 95px;
+  height: 95px;
+  position: absolute;
+}
+.landing-page-signed-text13 {
+  color: rgba(0, 0, 0, 1);
+  width: 108px;
+  height: auto;
+  position: absolute;
+  font-size: 65px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-signed-frame33 {
+  gap: 10px;
+  top: 108px;
+  left: 0px;
+  width: 108px;
+  height: 47px;
+  display: flex;
+  padding: 9px 0;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.landing-page-signed-text14 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-signed-line1 {
+  top: 102px;
+  left: 473px;
+  width: 57px;
+  height: 3px;
+  display: flex;
+  position: absolute;
+  background-size: cover;
+  background-image: url("/external/line11886-bjms.svg");
+  background-position: center;
+}
+.landing-page-signed-line3 {
+  top: 102px;
+  left: 308px;
+  width: 57px;
+  height: 3px;
+  display: flex;
+  position: absolute;
+  background-size: cover;
+  background-image: url("/external/line31886-e1pd.svg");
+  background-position: center;
+}
+.landing-page-signed-line2 {
+  top: 102px;
+  left: 143px;
+  width: 57px;
+  height: 3px;
+  display: flex;
+  position: absolute;
+  background-size: cover;
+  background-image: url("/external/line21886-rtah.svg");
+  background-position: center;
+}
+.landing-page-signed-collected-treasure {
+  height: 399px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.landing-page-signed-title2 {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.landing-page-signed-text16 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-signed-items-frame {
+  gap: 23px;
+  width: 672px;
+  height: 370px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: relative;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+  justify-content: space-between;
+}
+.landing-page-signed-order-item {
+  gap: 6.328125px;
+  height: 210.7265625px;
+  display: flex;
+  padding: 12.65625px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1.8984375px;
+  border-radius: 6.328125px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.landing-page-signed-itemimage {
+  gap: 6.328125px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.landing-page-signed-rectangle5 {
+  width: 146px;
+  height: 107px;
+}
+.landing-page-signed-item-details {
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.landing-page-signed-text18 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 17.71875px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-signed-text20 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 14.5546875px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-signed-order-item1 {
+  gap: 6.328125px;
+  height: 210.7265625px;
+  display: flex;
+  padding: 12.65625px;
+  z-index: 1;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1.8984375px;
+  border-radius: 6.328125px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.landing-page-signed-itemimage1 {
+  gap: 6.328125px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.landing-page-signed-rectangle51 {
+  width: 146px;
+  height: 107px;
+}
+.landing-page-signed-item-details1 {
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.landing-page-signed-text22 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 17.71875px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-signed-text24 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 14.5546875px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-signed-order-item2 {
+  gap: 6.328125px;
+  height: 210.7265625px;
+  display: flex;
+  padding: 12.65625px;
+  z-index: 2;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1.8984375px;
+  border-radius: 6.328125px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.landing-page-signed-itemimage2 {
+  gap: 6.328125px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.landing-page-signed-rectangle52 {
+  width: 146px;
+  height: 107px;
+}
+.landing-page-signed-item-details2 {
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.landing-page-signed-text26 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 17.71875px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-signed-text28 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 14.5546875px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-signed-order-item3 {
+  gap: 6.328125px;
+  height: 210.7265625px;
+  display: flex;
+  padding: 12.65625px;
+  z-index: 3;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1.8984375px;
+  border-radius: 6.328125px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.landing-page-signed-itemimage3 {
+  gap: 6.328125px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.landing-page-signed-rectangle53 {
+  width: 146px;
+  height: 107px;
+}
+.landing-page-signed-item-details3 {
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.landing-page-signed-text30 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 17.71875px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-signed-text32 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 14.5546875px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-signed-rectangle9 {
+  top: 0px;
+  left: 0px;
+  width: 672px;
+  height: 370px;
+  z-index: 4;
+  position: absolute;
+  border-radius: 10px;
+}
+.landing-page-signed-treasures-nearyou {
+  height: 679px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.landing-page-signed-title3 {
+  gap: 10px;
+  width: 635px;
+  display: flex;
+  padding: 0 2px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.landing-page-signed-text34 {
+  color: rgba(0, 0, 0, 1);
+  width: 630px;
+  height: auto;
+  font-size: 35px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-signed-map-frame {
+  gap: 10px;
+  width: 633px;
+  display: flex;
+  padding: 16px 26px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.landing-page-signed-map-container {
+  gap: 10px;
+  width: 100%;
+  height: 580px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.landing-page-signed-new-arrivals-frame {
+  width: 1440px;
+  height: 430px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.landing-page-signed-description-frame {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  justify-content: space-between;
+}
+.landing-page-signed-content {
+  gap: 67px;
+  width: 700px;
+  height: 310px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.landing-page-signed-text36 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 140.625%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-signed-text38 {
+  color: rgba(0, 0, 0, 1);
+  width: 422px;
+  height: auto;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 140.625%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-signed-textbutton {
+  gap: 10px;
+  display: flex;
+  padding: 14px 36px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-default-buttongreen);
+}
+.landing-page-signed-text40 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-signed-product-frame {
+  gap: 10px;
+  display: flex;
+  padding: 0 110px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.landing-page-signed-rectangle3 {
+  width: 500px;
+  height: 400px;
+}
+.landing-page-signed-beginplanningcarousel {
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  padding-left: var(--dl-space-space-fiveunits);
+  padding-right: var(--dl-space-space-fiveunits);
+  justify-content: space-between;
+  background-color: rgba(255, 255, 255, 1);
+}
+.landing-page-signed-carousel {
+  display: flex;
+  align-items: center;
+}
+.landing-page-signed-carousel-frame {
+  gap: 15px;
+  width: 594px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.landing-page-signed-carousel1 {
+  gap: 12px;
+  height: 390px;
+  display: flex;
+  padding: 24px 0;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.landing-page-signed-gallery {
+  gap: 15px;
+  height: 270px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-signed-image-container {
+  width: 502px;
+  height: 270px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  border-radius: 12px;
+  background-color: rgba(0, 0, 0, 1);
+}
+.landing-page-signed-image-container1 {
+  width: 502.0000305175781px;
+  height: 270px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  border-radius: 12px;
+  background-color: rgba(0, 0, 0, 1);
+}
+.landing-page-signed-image-container2 {
+  width: 502.0000305175781px;
+  height: 270px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-radius: 12px;
+  background-color: rgba(0, 0, 0, 1);
+}
+.landing-page-signed-image-description {
+  gap: 46px;
+  display: flex;
+  padding: 52px 68px;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.landing-page-signed-textholder {
+  gap: 10px;
+  display: flex;
+  padding: 18px 36px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.landing-page-signed-text42 {
+  color: rgba(0, 0, 0, 1);
+  width: 467px;
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hind Siliguri;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-signed-textbutton1 {
+  gap: 10px;
+  display: flex;
+  padding: 14px 36px;
+  overflow: hidden;
+  align-items: center;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-default-buttongreen);
+}
+.landing-page-signed-text44 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+@media(max-width: 1200px) {
+  .landing-page-signed-quick-action-frame {
+    justify-content: center;
+  }
+  .landing-page-signed-treasures-nearyou {
+    display: none;
+  }
+  .landing-page-signed-new-arrivals-frame {
+    width: 100%;
+  }
+}
+@media(max-width: 991px) {
+  .landing-page-signed-new-arrivals-frame {
+    height: auto;
+    flex-direction: column;
+  }
+  .landing-page-signed-description-frame {
+    justify-content: center;
+  }
+  .landing-page-signed-product-frame {
+    display: none;
+  }
+  .landing-page-signed-beginplanningcarousel {
+    flex-direction: column;
+  }
+  .landing-page-signed-image-description {
+    width: 100%;
+    height: 100%;
+    align-self: center;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+  }
+  .landing-page-signed-textholder {
+    display: none;
+  }
+}
+@media(max-width: 479px) {
+  .landing-page-signed-track-your-progress-frame {
+    width: 100%;
+    height: 100%;
+  }
+  .landing-page-signed-title {
+    width: 100%;
+  }
+  .landing-page-signed-current-progress {
+    width: 100%;
+  }
+  .landing-page-signed-stops {
+    align-self: flex-start;
+  }
+  .landing-page-signed-collected-treasure {
+    width: 100%;
+    display: none;
+  }
+  .landing-page-signed-items-frame {
+    width: 100%;
+  }
+  .landing-page-signed-rectangle9 {
+    width: 100%;
+    height: 100%;
+    display: none;
+  }
+  .landing-page-signed-beginplanningcarousel {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .landing-page-signed-carousel {
+    width: 100%;
+  }
+}

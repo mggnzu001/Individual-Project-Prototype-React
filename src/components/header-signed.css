@@ -1,0 +1,224 @@
+.header-signed-header-signed {
+  gap: 12px;
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.header-signed-header-logo {
+  gap: 10px;
+  width: 150px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.header-signed-imag-ebabe0ecf3ccc410faf1c05a53b7ee68a1 {
+  width: 150px;
+  height: 150px;
+}
+.header-signed-header-name {
+  gap: 10px;
+  width: 491px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.header-signed-text {
+  color: rgba(0, 0, 0, 1);
+  width: 491px;
+  height: auto;
+  font-size: 51px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.header-signed-header-links {
+  width: 607px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.header-signed-about-us {
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.header-signed-clickable-frame {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.header-signed-text02 {
+  color: rgba(0, 0, 0, 1);
+  width: 115px;
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.header-signed-eparrowdownbold {
+  width: 27px;
+  height: 25px;
+}
+.header-signed-rules {
+  gap: 10px;
+  height: 150px;
+  display: flex;
+  padding: 55px 0;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.header-signed-text04 {
+  color: rgba(0, 0, 0, 1);
+  width: 115px;
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.header-signed-wishlist {
+  width: 128px;
+  height: 150px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.header-signed-text06 {
+  top: 56px;
+  left: 6px;
+  color: rgba(0, 0, 0, 1);
+  width: 115px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.header-signed-news {
+  gap: 10px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.header-signed-clickable-frame1 {
+  display: flex;
+  align-items: center;
+}
+.header-signed-text08 {
+  color: rgba(0, 0, 0, 1);
+  width: 115px;
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.header-signed-eparrowdownbold1 {
+  width: 27px;
+  height: 25px;
+}
+.header-signed-burger-menubutton {
+  gap: 10px;
+  height: 150px;
+  display: flex;
+  padding: 47px 43px;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.header-signed-iconamoonmenuburgerhorizontalbold {
+  width: 72px;
+  height: 56px;
+}
+
+@media(max-width: 1600px) {
+  .header-signed-header-signed {
+    width: 100%;
+  }
+  .header-signed-news {
+    width: 138px;
+    height: 132px;
+    justify-content: center;
+  }
+}
+@media(max-width: 1200px) {
+  .header-signed-header-links {
+    width: auto;
+  }
+  .header-signed-wishlist {
+    display: none;
+  }
+  .header-signed-news {
+    display: none;
+  }
+  .header-signed-burger-menubutton {
+    width: 150px;
+    padding-left: var(--dl-space-space-oneandhalfunits);
+    padding-right: var(--dl-space-space-oneandhalfunits);
+  }
+}
+@media(max-width: 991px) {
+  .header-signed-header-signed {
+    gap: 0;
+    align-items: stretch;
+    justify-content: space-between;
+  }
+  .header-signed-about-us {
+    display: none;
+  }
+  .header-signed-rules {
+    display: none;
+  }
+}
+@media(max-width: 767px) {
+  .header-signed-header-logo {
+    display: none;
+  }
+}
+@media(max-width: 479px) {
+  .header-signed-header-signed {
+    align-items: center;
+  }
+  .header-signed-header-logo {
+    display: flex;
+  }
+  .header-signed-header-name {
+    display: none;
+  }
+}

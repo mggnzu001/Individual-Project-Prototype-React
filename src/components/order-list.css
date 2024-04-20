@@ -1,0 +1,153 @@
+.order-list-order-list {
+  gap: 10px;
+  width: 1440px;
+  display: flex;
+  padding: 20px;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+}
+.order-list-suggestion2 {
+  gap: 10px;
+  width: 180px;
+  height: 180px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 10px;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: rgba(255, 255, 255, 1);
+}
+.order-list-logo-frame {
+  gap: 10px;
+  width: 180px;
+  height: 110px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.order-list-rectangle6 {
+  width: 100px;
+  height: 100px;
+}
+.order-list-suggestion-desctiption {
+  display: flex;
+  overflow: hidden;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.order-list-name-frame {
+  width: 180px;
+  height: 34px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.order-list-text {
+  color: rgba(0, 0, 0, 1);
+  width: 180px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.order-list-text2 {
+  color: rgba(0, 0, 0, 1);
+  width: 180px;
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hind Mysuru;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.order-list-line5 {
+  color: var(--dl-color-gray-black);
+  width: 150px;
+  height: 1px;
+  transform: rotate(90deg);
+}
+.order-list-add-item {
+  gap: 10px;
+  display: flex;
+  padding: 34px 33px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+}
+.order-list-add-location {
+  width: 45px;
+  height: 45px;
+}
+.order-list-text4 {
+  color: rgba(0, 0, 0, 1);
+  width: 501px;
+  height: auto;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Holtwood One SC;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+
+@media(max-width: 1200px) {
+  .order-list-order-list {
+    width: 100%;
+  }
+  .order-list-add-item {
+    width: 100%;
+  }
+}
+@media(max-width: 767px) {
+  .order-list-order-list {
+    width: 100%;
+  }
+  .order-list-line5 {
+    height: 2px;
+    border-color: var(--dl-color-gray-black);
+    border-width: 1px;
+  }
+  .order-list-add-item {
+    width: 100%;
+  }
+}
+@media(max-width: 479px) {
+  .order-list-order-list {
+    gap: 0rem;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+  }
+  .order-list-line5 {
+    height: 3px;
+    align-self: center;
+    border-color: var(--dl-color-gray-black);
+    border-width: 3px;
+  }
+  .order-list-text4 {
+    display: none;
+  }
+}
